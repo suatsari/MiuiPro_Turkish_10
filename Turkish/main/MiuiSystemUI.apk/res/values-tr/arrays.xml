@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="battery_options">
+    <item>Her zaman yüzdeyi göster</item>
+    <item>Şarj edildiğinde yüzdeyi göster (varsayılan)</item>
+    <item>Hiçbir zaman gösterme</item>
+  </string-array>
+  <string-array name="clock_options">
+    <item>Saati, dakikayı ve saniyeyi göster</item>
+    <item>Saati ve dakikayı göster (varsayılan)</item>
+    <item>Bu simgeyi gösterme</item>
+  </string-array>
+  <string-array name="miui_volume_timer_segments_title">
+    <item>Kapalı</item>
+    <item>Yarım saat</item>
+    <item>1 saat</item>
+    <item>2 saat</item>
+    <item>8 saat</item>
+  </string-array>
+  <string-array name="nav_bar_buttons">
+    <item>Pano</item>
+    <item>Anahtar kodu</item>
+    <item>Klavye değiştirici</item>
+    <item>Hiçbiri</item>
+  </string-array>
+  <string-array name="nav_bar_layouts">
+    <item>Normal</item>
+    <item>Kompakt</item>
+    <item>Sol eğilimli</item>
+    <item>Sağ eğilimli</item>
+  </string-array>
+</resources>
