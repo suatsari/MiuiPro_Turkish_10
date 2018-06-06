@@ -1140,5 +1140,20 @@ Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları 
   <string name="output_to_disk">Kayıtları bir dosyaya kaydet</string>
   <string name="request_copy_db_to_disk">Mail veritabanınızı bir dosyaya kopyalamak istiyor</string>
   <string name="three_day">Üç gün</string>
-  <string name="see_more_content">Daha fazla göster</string>  
+  <string name="see_more_content">Daha fazla göster</string>
+  <string name="account_setup_failed_auth_required">Kimlik doğrulama yöntemleri sunucu tarafından desteklenmez.</string>
+  <string name="login_mail">Posta oturum açma</string>
+  <string name="need_get_qq_mail">QQ Mail gerekli</string>
+  <string name="open_notification_kingagent">Mezar noktasının bildirimini açın</string>
+  <string name="optimization_suggestion">Optimizasyon önerisi</string>
+  <string name="others_mail">Diğerleri</string>
+  <string name="others_mail_des">(60.000\'den Fazla Posta Dönüştürme)</string>
+  <string name="qq_authorization_help_get">Almama yardım et</string>
+  <string name="qq_authorization_know">Yetkilendirme kodunu anlama</string>
+  <string name="qq_authorization_tips">Uzun komut istemi yok</string>
+  <string name="qq_verify_code">(QQ Doğrulama Kodu Gerekir)</string>
+  <string name="title_activity_about">Hakkında</string>
+  <string name="verify_code">Doğrulama Kodu</string>
+  <string name="version_string">Versiyon: %s</string>
+  <string name="wps_title">WPS Posta</string>  
 </resources>
