@@ -947,6 +947,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="save_power_title">Pil Tasarrufu</string>
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Saklanıyor...</string>
+  <string name="search_bar_text">Göndereni Ara veya kişiyi Ara</string>
   <string name="sdcard_cannot_use">"SD kart kullanılamıyor"</string>
   <string name="search_hint">E-Posta ara</string>
   <string name="search_result">Sonuçlar</string>
@@ -1083,7 +1084,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="unzip_file_failed">"Dosya açılamadı"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at"> %1$s\'da yenilendi</string>
-  <string name="upload_log">Günlükleri Gönder</string>
+  <string name="upload_log">Günlükleri gönder</string>
   <string name="upload_log_failed">"Günlükler gönderilemedi"</string>
   <string name="upload_log_no">İptal</string>
   <string name="upload_log_success">Başarıyla gönderildi, yakında geri dönüş yapılacak </string>
