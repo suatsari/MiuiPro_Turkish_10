@@ -548,5 +548,17 @@ ve sonra herkesin en iyi göründüğü bir resim oluşturacak."</string>
   <string name="portait_effect_entry_story">Hikaye</string>
   <string name="accessibility_ai_scene_off">AI kamera kapalı</string>
   <string name="accessibility_ai_scene_on">AI kamera</string>
-  <string name="hint_ae_af_lock">Otomatik odaklama / otomatik pozlama kilitli</string>  
+  <string name="hint_ae_af_lock">Otomatik odaklama / otomatik pozlama kilitli</string> 
+  <string name="edit_chin">Çeneler</string>
+  <string name="edit_lips">Dudaklar</string>
+  <string name="edit_neck">Boyun</string>
+  <string name="edit_nose">Burun</string>
+  <string name="edit_risorius">Gülme kası</string>
+  <string name="edit_slim_nose">Burun</string>
+  <string name="edit_smile">Gülümseme</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D Güzellik</string>
+  <string name="pref_video_encoder_default">h264</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Yüksek uyumluluk</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Yüksek performans</string>
+  <string name="pref_video_encoder_title">Video kodlayıcı</string>  
 </resources>
