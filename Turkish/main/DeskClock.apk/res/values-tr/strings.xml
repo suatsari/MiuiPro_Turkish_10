@@ -213,11 +213,13 @@
   <string name="timer_running">Zamanlayıcı çalışıyor</string>
   <string name="timer_running_hint">Devam et</string>
   <string name="timer_start_timer">Zamanlayıcıyı başlat</string>
-  <string name="worldclock_input_hint_text">Ülke veya şehir girin</string>
+  <string name="worldclock_input_hint_text">Şehir girin</string>
   <string name="worldclock_search_city">Şehir seç</string>
   <string name="worldclock_world_time">Zaman dilimleri</string>
   <string name="worldcolock_timezone_current">Şuan: %1$s</string>
   <string name="worldcolock_timezone_date">dd MMM</string>
   <string name="worldcolock_timezone_gap">Saat</string>
-  <string name="worldcolock_timezone_local">Yerel saat ile aynı</string>  
+  <string name="worldcolock_timezone_local">Yerel saat ile aynı</string> 
+  <string name="open_keep_screen">Ekran tutulacak</string>
+  <string name="shut_down_keep_screen">Ekranda tutulmayacak</string>
 </resources>
