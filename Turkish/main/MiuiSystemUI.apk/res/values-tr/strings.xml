@@ -605,7 +605,7 @@
   <string name="notification_group_collapse_button_text">Daralt</string>
   <string name="notification_group_divider_symbol">" • "</string>
   <string name="notification_header_default_channel">Bildirimler</string>
-  <string name="notification_hidden_by_policy_text">İçerik gizlendi</string>
+  <string name="notification_hidden_by_policy_text">Politika tarafından gizlenen içerikler</string>
   <string name="notification_info_channel_disabled_text">%1$s tarafından %2$S bildirimleri almayacaksınız.</string>
   <string name="notification_info_channel_enabled_text">%1$s tarafından %2$S bildirimleri alacaksınız.</string>
   <string name="notification_menu_accessibility">%1$s %2$s</string>
@@ -902,10 +902,10 @@
   <string name="wrong_password">Yanlış şifre</string>
   <string name="zen_alarm_warning">Bir sonraki %1$s alarmını duymayacaksın</string>
   <string name="zen_alarm_warning_indef">Bundan önce kapatmadığınız sürece sonraki %1$s alarmınızı duymayacaksınız.</string>
-  <string name="zen_alarms_introduction">Alarmlar dışında sesler ve titreşimler tarafından rahatsız edilmez. Sen</string>
+  <string name="zen_alarms_introduction">Alarmlar dışında, sesler ve titreşimler sizi rahatsız etmez. Hala müzik, video ve oyunlar da dahil olmak üzere oynatmayı seçtiğiniz her şeyi duyacaksınız.</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_priority_customize_button">Özelleştirme</string>
-  <string name="zen_priority_introduction">Belirttiğiniz alarmlar, hatırlatıcılar, etkinlikler ve arayanlar dışında sesler ve titreşimlerden rahatsız olmazsınız. Sen</string>
+  <string name="zen_priority_introduction">Belirlediğiniz alarmlar, hatırlatıcılar, etkinlikler ve arayanlar dışındaki sesler ve titreşimler sizi rahatsız etmez. Müzik, video ve oyunlar dahil olmak üzere oynatmayı seçtiğiniz herhangi bir şeyi duymaya devam edersiniz.</string>
   <string name="zen_silence_introduction">Bu, alarmlar, müzik, videolar ve oyunlar dahil TÜM sesler ve titreşimleri engeller.</string>
   <string name="zen_silence_introduction_voice">Bu, alarmlar, müzik, videolar ve oyunlar dahil TÜM sesler ve titreşimleri engeller. Hala telefon görüşmesi yapabilirsiniz.</string>
   <string name="prompt_danger">Tehlike</string>
@@ -915,5 +915,11 @@
   <string name="status_bar_safepay_risk">Ödeme riskleri bulundu</string>
   <string name="status_bar_safepay_safe">Ödeme riski bulunmadı</string>
   <string name="status_bar_safepay_scanning">Ödeme ortamı kontrol ediliyor…</string>
-  <string name="status_bar_safepay_unknown">Ödeme ortamı kontrol edilemedi</string>  
+  <string name="status_bar_safepay_unknown">Ödeme ortamı kontrol edilemedi</string> 
+  <string name="data_connection_no_internet">İnternet yok</string>
+  <string name="notification_channel_screenbutton">EkranDüğmesi</string>
+  <string name="quick_settings_night_secondary_label_on_at">%s üzerinde</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Gün batımında</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Güneş doğmadan</string>
+  <string name="quick_settings_secondary_label_until">%s\'e kadar</string>   
 </resources>
