@@ -337,12 +337,14 @@
   <string name="announce_for_move_hotseat">%1$d dock konumuna taşı</string>
   <string name="announce_for_unchecked">%1$s, kontrol edilmedi</string>
   <string name="backup_fail">Başlatıcı yedeklemesi başarısız</string>
-  <string name="icon_reorganize_channel">图标整理</string>
+  <string name="icon_reorganize_channel">Simgeleri düzenle</string>
   <string name="notification_reset_description">%1$s%1$s Başlatıcıyı %2$s değerine sıfırlayabilir</string>
   <string name="notification_reset_duration">İki saat içinde,</string>
-  <string name="notification_reset_title">Otomatik temizleme tamamlandı</string>
+  <string name="notification_reset_title">Simgeler başarıyla düzenledi</string>
   <string name="quick_app">Hızlı uygulama</string>
   <string name="refresh">Yenile</string>
-  <string name="reset_fail">Sıfırlama başarısız</string>
-  <string name="reset_title">sıfırlama</string> 
+  <string name="reset_fail">Geri yüklenemedi</string>
+  <string name="reset_title">Geri yükle</string> 
+  <string name="reset_description_first_time">Düzeni %1$s ile 2 saat içinde geri yükleyebilirsiniz.</string>
+  <string name="reset_description_others">Düzeni %1$s ile geri yükleyebilirsiniz.</string>  
 </resources>
