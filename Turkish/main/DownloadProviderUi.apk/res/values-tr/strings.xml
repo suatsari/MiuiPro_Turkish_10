@@ -481,7 +481,6 @@ Tüm cihazlarınızda indirmeleri hızlandırın."</string>
   <string name="dialog_speed_msg">Ağ test etmek için mobil veri kullanmak,büyük miktarda mobil veri tüketebilir. Devam et?</string>
   <string name="dialog_speed_cancel">İptal</string>
   <string name="dialog_speed_ok">Devam et</string>
-  <string name="ad_install">Yükleme</string>
   <string name="common_google_play_services_unknown_issue">%1$s Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
   <string name="default_web_client_id">923211599680-381p8rl6vludtbls72uunluha4jt735f.apps.googleusercontent.com</string>
   <string name="firebase_database_url">https://miui-data-statistics.firebaseio.com</string>
