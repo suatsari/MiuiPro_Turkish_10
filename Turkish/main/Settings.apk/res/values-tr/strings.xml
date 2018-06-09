@@ -2759,7 +2759,6 @@
   <string name="paper_mode_get_location_dlg_negative_btn_text">İptal</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Ayarlar</string>
   <string name="paper_mode_get_location_dlg_title">Konumu Ayarla</string>
-  <string name="paper_mode_side_effect_hint">Yüksek yoğunluk, içeriğin görüntülenme biçimini etkileyebilir.</string>
   <string name="paper_mode_start_time_title">Başlama Zamanı</string>
   <string name="passpoint_content">%1$s sicili</string>
   <string name="passpoint_label">Kaydeden:</string>
