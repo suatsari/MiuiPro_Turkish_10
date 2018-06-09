@@ -546,8 +546,6 @@ ve sonra herkesin en iyi göründüğü bir resim oluşturacak."</string>
   <string name="portait_effect_entry_movie">Film</string>
   <string name="portait_effect_entry_riddle">Bilmece</string>
   <string name="portait_effect_entry_story">Hikaye</string>
-  <string name="accessibility_ai_scene_off">AI kamera kapalı</string>
-  <string name="accessibility_ai_scene_on">AI kamera</string>
   <string name="hint_ae_af_lock">Otomatik odaklama / otomatik pozlama kilitli</string> 
   <string name="edit_chin">Çeneler</string>
   <string name="edit_lips">Dudaklar</string>
