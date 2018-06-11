@@ -754,7 +754,9 @@
   <string name="bootloader_device_bind_no_network">Ağa bağlanın ve yeniden deneyin</string>
   <string name="bootloader_locked_answer_1">Kişisel bilgilerinizin güvenli ve üçüncü tarafların ulaşamayacağı şekilde olması için cihazları kilitleriz. Eğer Fastboot Moduna girer veya cihaza yeniden yazılım yüklerseniz; bu kilidi kaldırırsınız.</string>
   <string name="bootloader_locked_answer_1_warning">Unutmayın: Cihazını kilidini kaldırdıktan sonra elefonu Bul\"özelliğini kullanmak mümkün olmayacak.</string>
-  <string name="bootloader_locked_answer_2">Bu cihazla Mi Hesabınızı ilişkilendirmek için aşağıdaki düğmeye dokunun. Sonra kilidi açma aracı indirmek ve bilgisayarınıza yüklemek için MIUI web sitesine gidin. İşte adres:</string>
+  <string name="bootloader_locked_answer_2">"1. Cihazınıza bir SIM kart taktığınızdan emin olun.
+2. Mi Hesabınızı bu cihazla ilişkilendirmek için aşağıdan \"Hesap ekle\" ye dokunun.
+3. Kilit açma aracını web sitemizden indirin. Cihazınızın kilidini bir bilgisayar kullanarak açmanız gerektiğini unutmayın. Buradan indirin:"</string>
   <string name="bootloader_locked_check_status">Hesap ve Cihaz ekle</string>
   <string name="bootloader_locked_question_1">Neden cihazlar kilitli olmalıdır?</string>
   <string name="bootloader_locked_question_2">Riski anlıyorum fakat cihazın kilidini kaldırmak istiyorum.</string>
@@ -5483,4 +5485,15 @@
   <string name="wifi_traffic_priority_regular_summary">Arka plan işlemleri ile ön plandaki uygulama bant genişliğini paylaş</string>
   <string name="wifi_traffic_priority_summary">Bağlantı hızını otomatik olarak önceliklendir</string>  
   <string name="total_info_sub">ve titreşimi kapat</string>
+  <string name="bootloader_device_bind_exceed_sim_limit">Bu SIM karta daha fazla hesap ekleyemiyorum.</string>
+  <string name="bootloader_device_bind_no_sim">SIM kartı takın ve tekrar deneyin.</string>
+  <string name="bootloader_device_bind_server_code">Eklenemedi. Hata kodu:</string>
+  <string name="bootloader_device_bind_sim_invalid">SIM kart geçersiz. Değiştirin ve tekrar deneyin.</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlock\'un, normal çalışabilmesi için Mi Hesabınıza, CPU Kimliğine, İmei ve IMSI\'nize erişmeye ihtiyaç duyuyor. Verilerinizi %s ile uyumlu olarak topluyor, kullanıyor ve işliyoruz. Kabul?</string>
+  <string name="bootloader_status_privacy_dialog_no">İptal</string>
+  <string name="bootloader_status_privacy_dialog_title">İzin gerekli</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Gizlilik Politikası</string>
+  <string name="bootloader_status_privacy_dialog_yes">Kabul</string>
+  <string name="device_miui_version_for_POCO">MIUI sürümü (POCO için)</string>
+  <string name="taplus_title">Taplus</string>  
 </resources>
