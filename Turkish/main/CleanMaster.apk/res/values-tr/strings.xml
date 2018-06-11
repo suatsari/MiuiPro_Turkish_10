@@ -92,7 +92,7 @@
   <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Boş Klasör (%d)</string>
   <string name="cache_title_empty_folder2">Boş Klasör</string>
-  <string name="cache_title_system_cache">Sistem Önbelleği</string>
+  <string name="cache_title_system_cache">Veri önbelleği</string>
   <string name="cached_garbage">Önbellek</string>
   <string name="call_log">Çağrı Günlüğü</string>
   <string name="cancel">İptal</string>
