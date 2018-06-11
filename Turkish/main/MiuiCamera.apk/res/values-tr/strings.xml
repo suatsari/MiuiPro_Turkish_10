@@ -561,7 +561,6 @@ ve sonra herkesin en iyi göründüğü bir resim oluşturacak."</string>
   <string name="pref_video_encoder_title">Video kodlayıcı</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Güzellik</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Değişiklik</string>
-  <string name="face_analyze_info">Yaş: %2$s (%1$s)</string>
   <string name="lens_dirty_detected_content">"Kamera lensinizin kirli olduğu tespit edildi,
 daha iyi resim için lütfen kamera lensinizi temizleyin."</string>
   <string name="lens_dirty_detected_title_back">Arka kamera merceği kirli</string>
