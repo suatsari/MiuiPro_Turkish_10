@@ -1564,5 +1564,11 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="voice_service_warning_dialog_cancel">İptal</string>
   <string name="voice_service_warning_dialog_ok">Anladım</string>
   <string name="voice_service_warning_dialog_ok_timer">Anladım (%d)</string>
-  <string name="voice_service_warning_dialog_title">VoLTE aramaları</string>  
+  <string name="voice_service_warning_dialog_title">VoLTE aramaları</string> 
+  <string name="wfcmode_mobile_preferred">Hücresel tercih</string>
+  <string name="wfcmode_wifi_only">Sadece Wlan</string>
+  <string name="wfcmode_wifi_preferred">Wlan tercih</string>
+  <string name="wifi_call_setting">Wlan çağrıları</string>
+  <string name="wificall_switch_summary">Bağlantı zayıf olduğunda cihazınız Wlan ve VoLTE arasında geçiş yapabilir</string>
+  <string name="wificall_switch_title">Wlan kullanarak arama yap</string>  
 </resources>
