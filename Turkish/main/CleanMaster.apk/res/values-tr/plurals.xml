@@ -113,4 +113,14 @@
         <item quantity="other">%1$d saniye</item>
         <item quantity="one">%1$d saniye</item>
     </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"%1$d dosya temizleniyor,%2$d bitti 
+ "</item>
+        <item quantity="one">"%1$d dosya temizleniyor,%2$d bitti 
+ "</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d%% öğe/saniye kalan zaman:%2$s</item>
+        <item quantity="one">%1$d%% öe/saniye kalan zaman:%2$s</item>
+    </plurals> 	
 </resources>
