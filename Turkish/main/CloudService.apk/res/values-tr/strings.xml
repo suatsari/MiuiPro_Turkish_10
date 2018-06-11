@@ -295,7 +295,7 @@
   <string name="micloud_main_message_not_synced">%s veri eşitlenemedi</string>
   <string name="micloud_main_multi_user_error_message">Benzer bir hesapla oturum açıp İlk Alanı ve Mi Bulut hatasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:\n\n1. Farklı bir hesap kullan\n2. İlk Alana öğeleri transfer et</string>
   <string name="micloud_main_multi_user_error_title">Mi Bulut Hatası</string>
-  <string name="micloud_main_network_abnormal">Ağa bağlanamıyor</string>
+  <string name="micloud_main_network_abnormal">Ağ ayarlarınızı kontrol edin</string>
   <string name="micloud_main_network_error">Ağa bağlanamıyor</string>
   <string name="micloud_main_query_again">Sorgu</string>
   <string name="micloud_main_query_error_message">Eşitlenmenin biteceği garanti edilemez</string>
