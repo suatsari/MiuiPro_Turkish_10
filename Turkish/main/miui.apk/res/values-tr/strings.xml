@@ -589,4 +589,9 @@
   <string name="wednesday_shortest">Çrş</string>
   <string name="xiaomi_mobile">Mi Mobil</string>
   <string name="yesterday">Dün</string>
+  <string name="cancel_description">İptal</string>
+  <string name="confirm_description">Onayla</string>
+  <string name="delete_description">Sil</string>
+  <string name="deselect_all_description">Tümünü seç</string>
+  <string name="select_all_description">Seçimleri kaldır</string>  
 </resources>
