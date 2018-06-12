@@ -208,4 +208,5 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="super_resolution_maintain_tips">Süper çözünürlük henüz mevcut değil.</string>
   <string name="wifi_assistant_wifi_no_internet">Bu WLAN ağının internet erişimi yok</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Detayları görmek için dokunun</string> 
+  <string name="resolver_app_recommend_flag">Tavsiye edilen</string>
 </resources>
