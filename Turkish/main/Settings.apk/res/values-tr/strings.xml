@@ -5446,7 +5446,7 @@
   <string name="super_resolution_desc">Bir AI algoritması kullanarak görüntüleri daha canlı hale getirin</string>
   <string name="super_resolution_maintain">Süper çözünürlük henüz mevcut değil.</string>
   <string name="super_resolution_no_app_tips">Önce WeChat ve Toutiao\'yu indirin.</string>
-  <string name="super_resolution_reboot_tips">Bu özelliği açtıktan sonra çalışması için uygulamaları yeniden başlatın</string>
+  <string name="super_resolution_reboot_tips">Bu özellik, WeChat ve Toutiao\’da daha net görüntü elde etmenizi sağlar. Bu özelliği açtıktan sonra uygulamaları tekrar başlatın.</string>
   <string name="super_resolution_title">Süper çözünürlük</string>
   <string name="wifi_assistant">WLAN asistanı</string>
   <string name="wifi_assistant_auto_confirm_data_message">Bu WLAN ağının internet erişimi yok. Cihazınız bunun yerine mobil veriyi kullanacak. WLAN asistanını Ayarlar\'dan kapatabilirsiniz.</string>
@@ -5495,5 +5495,8 @@
   <string name="bootloader_status_privacy_dialog_url_text">Gizlilik Politikası</string>
   <string name="bootloader_status_privacy_dialog_yes">Kabul</string>
   <string name="device_miui_version_for_POCO">MIUI sürümü (POCO için)</string>
-  <string name="taplus_title">Taplus</string>  
+  <string name="taplus_title">Taplus</string> 
+  <string name="miui_lab_ai_cloud_closed">AI önyükleme henüz mevcut değil.</string>
+  <string name="miui_lab_ai_preload_desc">AI önyükleme uygulama başlatma hızını artırır</string>
+  <string name="miui_lab_ai_preload_title">AI önyükleme</string> 
 </resources>
