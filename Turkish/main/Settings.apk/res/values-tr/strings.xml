@@ -5498,5 +5498,6 @@
   <string name="taplus_title">Taplus</string> 
   <string name="miui_lab_ai_cloud_closed">AI önyükleme henüz mevcut değil.</string>
   <string name="miui_lab_ai_preload_desc">AI önyükleme uygulama başlatma hızını artırır</string>
-  <string name="miui_lab_ai_preload_title">AI önyükleme</string> 
+  <string name="miui_lab_ai_preload_title">AI önyükleme</string>
+  <string name="wifi_click_login_wlan">Giriş/Yetkilendirme gerekiyor</string>
 </resources>
