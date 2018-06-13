@@ -1252,4 +1252,16 @@
   <string name="video_editor_video_is_short">Bu video düzenlenemiyor</string>
   <string name="video_editor_watermark">Filigran</string>
   <string name="voice_assistant">Ses girişi</string> 
+  <string name="checked">Seçili</string>
+  <string name="checked_something">%s seçili</string>
+  <string name="enter_choice_mode">Girilen paylaşım iletişim kutusu</string>
+  <string name="exit_choice_mode">Sol Paylaşım iletişim kutusu</string>
+  <string name="feature_guidance_photo_effects">Fotoğraf efektleri</string>
+  <string name="image_with_time">Fotoğraf %s tarihinde çekilmiş</string>
+  <string name="image_with_time_and_location">Fotoğraf %1$s tarihinde çekilmiş. Yer: %2$s.</string>
+  <string name="storage_description_usb">USB depolama</string>
+  <string name="unchecked">Seçim kaldırıldı</string>
+  <string name="unchecked_something">%s seçim kaldırıldı</string>
+  <string name="video_with_time">Video %s tarihinde çekilmiş</string>
+  <string name="video_with_time_and_location">Video %1$s tarihinde çekilmiş. Yer: %2$s.</string>  
 </resources>
