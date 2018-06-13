@@ -1490,4 +1490,5 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="special_code_security_exception">İşlem reddedildi : Varsayılan çevirici değil</string>  
   <string name="no_setting_menu">Kullanılabilir menü seçeneği yok</string>
   <string name="contact_detail_entry_pay_request">Para iste</string>
+  <string name="preference_show_firewall_calllog">Engellenen aramaları çağrı geçmişinde göster</string>
 </resources>
