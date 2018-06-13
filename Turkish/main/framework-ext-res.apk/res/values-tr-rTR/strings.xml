@@ -105,16 +105,6 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="screenshot_gesture_detect_alert_dont_again">"Tekrar gösterme"</string>
   <string name="screenshot_gesture_detect_alert_msg">Üç parmağı aşağı doğru çektiğinizde ekran görüntüsü alınsın mı?</string>
   <string name="screenshot_gesture_detect_alert_title">Üç-Parmakla Ekran Görüntüsü Al</string>
-  <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
-  <string name="securespaces_extension_accelerometer_serviceName"/>
-  <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
-  <string name="securespaces_extension_delete_userdata_serviceName"/>
-  <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
-  <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
-  <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
-  <string name="securespaces_extension_hidden_serviceName"/>
-  <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
-  <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
   <string name="security_permission_denied_text">Erişim engellendi</string>
   <string name="security_permission_failed_text">Dahili hata, sonra deneyin</string>
   <string name="security_permission_validate_warning">"MIUI'yi daha iyi hale getirdiğinizi için teşekkürler!"</string>
