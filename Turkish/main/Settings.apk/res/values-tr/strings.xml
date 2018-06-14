@@ -4773,7 +4773,7 @@
   <string name="wifi_calling_suggestion_title">WLAN Aramasını Aç</string>
   <string name="wifi_cancel">İptal</string>
   <string name="wifi_certificate">Sertifika</string>
-  <string name="wifi_click_login_wlan">Bağlandı. Doğrulama gerekiyor.</string>
+  <string name="wifi_click_login_wlan">Giriş/Yetkilendirme gerekiyor.</string>
   <string name="wifi_click_share_wlan">Şifreyi paylaşmak için dokunun</string>
   <string name="wifi_config_info">WLAN yapılandırması</string>
   <string name="wifi_configure_titlebar">Wi-Fi\'yi Yapılandır</string>
@@ -5499,5 +5499,5 @@
   <string name="miui_lab_ai_cloud_closed">AI önyükleme henüz mevcut değil.</string>
   <string name="miui_lab_ai_preload_desc">AI önyükleme uygulama başlatma hızını artırır</string>
   <string name="miui_lab_ai_preload_title">AI önyükleme</string>
-  <string name="wifi_click_login_wlan">Giriş/Yetkilendirme gerekiyor</string>
 </resources>
+
