@@ -921,5 +921,8 @@
   <string name="quick_settings_night_secondary_label_on_at">%s üzerinde</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Gün batımında</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Güneş doğmadan</string>
-  <string name="quick_settings_secondary_label_until">%s\'e kadar</string>   
+  <string name="quick_settings_secondary_label_until">%s\'e kadar</string> 
+  <string name="notification_channel_battery">Pil</string>
+  <string name="notification_channel_usb">USB</string>
+  <string name="quick_settings_gps_label">GPS</string>    
 </resources>
