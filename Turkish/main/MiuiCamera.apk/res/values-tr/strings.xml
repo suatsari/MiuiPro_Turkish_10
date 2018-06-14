@@ -561,8 +561,8 @@ ve sonra herkesin en iyi göründüğü bir resim oluşturacak."</string>
   <string name="pref_video_encoder_title">Video kodlayıcı</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Güzellik</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Değişiklik</string>
-  <string name="lens_dirty_detected_content">"Kamera lensinizin kirli olduğu tespit edildi,
-daha iyi resim için lütfen kamera lensinizi temizleyin."</string>
+  <string name="lens_dirty_detected_content">"Fotoğraf makinenizin lensi kirli görünüyor.
+Daha iyi efekt için lensi temizleyin."</string>
   <string name="lens_dirty_detected_title_back">Arka kamera merceği kirli</string>
   <string name="lens_dirty_detected_title_front">Ön kamera merceği kirli</string>
   <string name="back_bokeh_use_hint">Nesnenin 1,5 metreden fazla olmadığından emin olun</string>
