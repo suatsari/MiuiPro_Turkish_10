@@ -92,4 +92,8 @@
     <item quantity="other">%d saniye içinde tekrar deneyin</item>
     <item quantity="one">%d saniye içinde tekrar deneyin</item>
   </plurals>
+  <plurals name="notification_num_channels">
+     <item quantity="other">%d bildirim kategorisi</item>
+     <item quantity="one">%d bildirim kategorisi</item>
+  </plurals>  
 </resources>
