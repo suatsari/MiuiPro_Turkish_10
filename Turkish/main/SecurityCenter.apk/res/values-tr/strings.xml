@@ -2302,4 +2302,7 @@ bir şifre kullanın"</string>
   <string name="midrop_post_notification_contentTitle">Dosya aktarımı mı gerekiyor?</string>
   <string name="screenrecord_not_find">Ekran Kaydedicinin son sürümünü yükleyin ve tekrar deneyin.</string> 
   <string name="app_manager_details_title">Uygulama bilgisi</string>
+  <string name="gamebox_type_close">Gösterme</string>
+  <string name="gamebox_type_float">Sabit kısayol</string>
+  <string name="gamebox_type_gesture">Göstermek için kaydır</string>  
   </resources>
