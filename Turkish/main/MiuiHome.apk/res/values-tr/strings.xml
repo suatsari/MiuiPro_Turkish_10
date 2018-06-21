@@ -326,7 +326,7 @@
   <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
   <string name="open_personal_assistant_dialog_desc">Uygulama Kasası\'nı kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?</string>
   <string name="open_personal_assistant_dialog_title">Uygulama Kasası\'nı kapat</string>
-  <string name="open_personal_assistant_title">Uygulama Kasası\'nı aç</string>
+  <string name="open_personal_assistant_title">Uygulama kasası</string>
   <string name="preferred_app_settings_not_selected">Seçilmedi</string>
   <string name="recents_config_title">En Son</string>
   <string name="screen_cells_config_title">Ana Ekran Düzeni</string>
@@ -346,5 +346,7 @@
   <string name="reset_fail">Geri yüklenemedi</string>
   <string name="reset_title">Geri yükle</string> 
   <string name="reset_description_first_time">Düzeni %1$s ile 2 saat içinde geri yükleyebilirsiniz.</string>
-  <string name="reset_description_others">Düzeni %1$s ile geri yükleyebilirsiniz.</string>  
+  <string name="reset_description_others">Düzeni %1$s ile geri yükleyebilirsiniz.</string> 
+  <string name="default_folder_title_services">Hizmetler</string>
+  <string name="open_personal_assistant_dialog_desc_international">Uygulama kasası kartları (Hisse Senetleri, kısayollar, vb) kullanmak mümkün olmayacaktır. Bu özelliği kapattıktan sonra güncelleştirmeleri alırsınız.</string>  
 </resources>
