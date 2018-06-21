@@ -57,5 +57,9 @@
   <string name="shake_enter_tip">Kalibrasyon için telefonu ∞ şeklinde birkaç kez sallayın</string>
   <string name="using_camera_confirm_cancel">Çık</string>
   <string name="using_camera_confirm_ok">Katılıyorum</string>
-  <string name="unit_degree">Derece</string>  
+  <string name="unit_degree">Derece</string>
+  <string name="allow">İzin ver</string>
+  <string name="cancel">İptal</string>
+  <string name="open_perm_msg">Pusula için konum bilgisi ve kameraya erişim gerekli. Bu koordinatları belirlemek ve canlı önizleme sağlamak için lazım. İzin verilsin mi?</string>
+  <string name="open_perm_title">İzin gerekli</string>  
 </resources>
