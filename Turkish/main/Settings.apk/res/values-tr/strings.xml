@@ -5499,5 +5499,11 @@
   <string name="miui_lab_ai_cloud_closed">AI önyükleme henüz mevcut değil.</string>
   <string name="miui_lab_ai_preload_desc">AI önyükleme uygulama başlatma hızını artırır</string>
   <string name="miui_lab_ai_preload_title">AI önyükleme</string>
+  <string name="cancel_description">İptal</string>
+  <string name="confirm_description">Onayla</string>
+  <string name="fallback_home_title">Sadece bir saniye…</string>
+  <string name="key_fsg_dialog_message">Navigasyon için tam ekran hareketleri kullanıyorsunuz. Düğme ile ilgili özellikler şu anda mevcut değil. Düğmelere geç?</string>
+  <string name="key_fsg_dialog_negative">İptal</string>
+  <string name="key_fsg_dialog_positive">Düğmelere geç</string>  
 </resources>
 
