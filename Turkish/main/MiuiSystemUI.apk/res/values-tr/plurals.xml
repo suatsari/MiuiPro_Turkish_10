@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="accessibility_recent_task_enter">
+    <item quantity="other">Son kullanılanlar açıldı, kullanılabilir uygulamalar: %d.</item>
+    <item quantity="one">Son kullanılanlar açıldı, kullanılabilir uygulama: %d.</item>
+  </plurals>
+  <plurals name="accessibility_recent_task_first_enter_tips">
+    <item quantity="other">Son kullanılanlar açıldı, kullanılabilir uygulamalar: %d. Kaldırmak için yukarı doğru, kilitlemek için aşağı doğru kaydırın.</item>
+    <item quantity="one">Son kullanılanlar açıldı, kullanılabilir uygulama: %d. Kaldırmak için yukarı doğru, kilitlemek için aşağı doğru kaydırın.</item>
+  </plurals>
+  <plurals name="block_record_notification_more_text">
+    <item quantity="other">%1$s &amp; %2$d bildirimleri gizleniyor.</item>
+    <item quantity="one">%1$s &amp; %2$d bildirimleri gizleniyor.</item>
+  </plurals>
+  <plurals name="disable_notification_confirm_title">
+    <item quantity="other">%d uygulamanın bildirimlerini gizle?</item>
+    <item quantity="one">Bu uygulamanın bildirimlerini gizle?</item>
+  </plurals>
+  <plurals name="fold_tips_title">
+    <item quantity="other">%d önemsiz bildirim</item>
+    <item quantity="one">%d önemsiz bildirim</item>
+  </plurals>
   <plurals name="incorrect_pincode_remaining_attempts">
     <item quantity="other">Yanlış PIN kodu, %d deneme kaldı</item>
     <item quantity="one">Yanlış PIN kodu, %d deneme oldu</item>
@@ -80,6 +100,14 @@
     <item quantity="other">%1$s, %2$s, ve %3$d diğerleri</item>
     <item quantity="one">%1$s, %2$s, ve %3$d diğer</item>
   </plurals>
+  <plurals name="notification_group_overflow_description">
+    <item quantity="other">%s bildirim daha içeride.</item>
+    <item quantity="one">%s bildirim daha içeride.</item>
+  </plurals>
+  <plurals name="notification_num_channels">
+    <item quantity="other">%d bildirim kategorisi</item>
+    <item quantity="one">%d bildirim kategorisi</item>
+  </plurals>
   <plurals name="notification_num_channels_desc">
     <item quantity="other">Bu uygulamadan %d bildirim kategorilerinden 1 tanesi</item>
     <item quantity="one">Bu uygulamadan %d bildirim kategorisinden 1 tanesi</item>
@@ -92,8 +120,16 @@
     <item quantity="other">%d saniye içinde tekrar deneyin</item>
     <item quantity="one">%d saniye içinde tekrar deneyin</item>
   </plurals>
-  <plurals name="notification_num_channels">
-     <item quantity="other">%d bildirim kategorisi</item>
-     <item quantity="one">%d bildirim kategorisi</item>
-  </plurals>  
+  <plurals name="settings_toggle_position_divider_page">
+    <item quantity="other">%1$d bar üzerine konumlandırılmış anahtar etkin</item>
+    <item quantity="one">%1$d bar üzerine konumlandırılmış anahtar etkin</item>
+  </plurals>
+  <plurals name="status_bar_accessibility_recent_apps">
+    <item quantity="other">Genel bakışta %d ekran</item>
+    <item quantity="one">Genel bakışta 1 ekran</item>
+  </plurals>
+  <plurals name="view_realtime_clear">
+    <item quantity="other">Açık</item>
+    <item quantity="one">Açık</item>
+  </plurals>
 </resources>
