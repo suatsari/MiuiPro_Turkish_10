@@ -594,5 +594,6 @@ Boş yer açın veya daha küçük transferler yapın."</string>
   <string name="usb_trans_old_phone_low_space_msg">Yedeklerinizi paketlemek için ek depolama alanı gereklidir. Aktarıma devam etmek için yeterli depolama alanı yok. Boş alan açabilir ve gereksiz dosyaları Güvenlik\'ten silebilir veya yalnızca önemli öğelerin aktarılmasını deneyebilirsiniz.</string>
   <string name="usb_trans_old_phone_low_space_title">Yeterli depolama alanı yok</string>
   <string name="usb_trans_select_data_no_space">"USB sürücünüzde sadece %s kullanılabilir.
-Boş yer açın veya sadece önemli öğeleri aktarın."</string>  
+Boş yer açın veya sadece önemli öğeleri aktarın."</string> 
+  <string name="err_acquire_system_service">Sistem hizmeti başlatılamadı.</string>
 </resources>
