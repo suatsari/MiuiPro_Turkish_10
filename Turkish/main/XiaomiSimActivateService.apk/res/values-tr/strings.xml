@@ -116,4 +116,11 @@
   <string name="privacy_revoke_failed_msg">Etkinleştirme, mesajların telefon numaranızı alabilmesi için yetkilendirme gerektirir.</string>
   <string name="privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, Mesajlaşma verilerinizi toplamayı durdurur ve tüm verilerinizi sunucularından siler. Mi Bulut, Mi Mesaj ve diğer Mesajlaşma özellikleriyle senkronizasyon artık kullanılamayacak. Yine de yetkilendirme iptal edilsin mi?</string>
   <string name="sim_unactivated_title">SIM kartınız etkin değil</string>
+  <string name="activate_feature_voip">Mi Mesaj Sesi</string>
+  <string name="checking_client">istemci env kontrol ediliyor</string>
+  <string name="error_checking_client">istemci env hatası</string>
+  <string name="error_network_io">ağ hatası</string>
+  <string name="error_no_send_sms_permission">sms gönderme izni yok</string>
+  <string name="error_sim_not_in_service">sim hizmeti yok</string>
+  <string name="waiting_sim_in_service">sim hizmeti bekleniyor</string>  
 </resources>
