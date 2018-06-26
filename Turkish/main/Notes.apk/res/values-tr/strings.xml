@@ -264,5 +264,9 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="snippet_audio_stub">Sesli not</string>
   <string name="toast_refuse_to_record_when_in_call">Arama sırasında bu özelliği kullanamazsınız</string>
   <string name="toolbar_text_description">Metin stili</string>
-  <string name="toolbar_voice_description">Ses</string>  
+  <string name="toolbar_voice_description">Ses</string> 
+  <string name="actionbar_close_description">Kapat</string>
+  <string name="actionbar_home_description">Geri</string>
+  <string name="menu_more_description">Daha</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">Bu özelliği Ekran Bölme ile kullanamazsınız</string>  
 </resources>
