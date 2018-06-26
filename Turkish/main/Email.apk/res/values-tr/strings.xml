@@ -1142,7 +1142,6 @@ Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları 
   <string name="request_copy_db_to_disk">Mail veritabanınızı bir dosyaya kopyalamak istiyor</string>
   <string name="three_day">Üç gün</string>
   <string name="see_more_content">Daha fazla göster</string>
-  <string name="account_setup_failed_auth_required">Kimlik doğrulama yöntemleri sunucu tarafından desteklenmez.</string>
   <string name="login_mail">Posta oturum açma</string>
   <string name="need_get_qq_mail">QQ Mail gerekli</string>
   <string name="open_notification_kingagent">Mezar noktasının bildirimini açın</string>
