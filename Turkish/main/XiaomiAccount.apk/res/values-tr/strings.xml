@@ -179,7 +179,6 @@
   <string name="first_login_time">Önce giriş yapın: %s</string>
   <string name="forget_password">Şifremi unuttum</string>
   <string name="forward_to_bind">Ekle</string>
-  <string name="get_back_pwd">Şifreyi sıfırla</string>
   <string name="get_device_list_failed">"Cihaz listesi alınamıyor"</string>
   <string name="get_phone_bind_exceed_limit">"Mi Hesaba 3 kadar bir telefon numarası ile ilişkilendirebilirsiniz. Yeni yeni hesap ekleyemezsiniz."</string>
   <string name="get_email_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
@@ -586,8 +585,7 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="passport_sending_vcode">Kod gönderiliyor…</string>
   <string name="passport_getting_activator_phone">SIM bilgileri alınıyor…</string>
   <string name="passport_verifying_activator_phone">Telefon güvenliğini doğrulama…</string>
-  <string name="passport_querying_phone_info">Hesap bilgisi isteme…</string>
-  <string name="passport_area_code_title">Ülke kodu</string>  
+  <string name="passport_querying_phone_info">Hesap bilgisi isteme…</string> 
   <string name="action_add_phone">Telefon numarasını bağla</string>
   <string name="action_update_phone">Telefon numarasını değiştir</string>
   <string name="get_back_pwd">Şifreyi geri al</string>
