@@ -795,7 +795,6 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="date_calculate_hint">Birkaç gün sonra hangi tarih olduğunu öğrenin</string>
   <string name="date_jump_hint">Belirli bir güne doğrudan atlayın</string>
   <string name="date_jump_title">Tarihe atla</string>
-  <string name="edit_event_birthday_reminder_3_days_before">3 gün önceden de hatırlat</string>
   <string name="guide_card_import">Al</string>
   <string name="guide_card_primary_text">Arkadaş doğum gününü içe aktar</string>
   <string name="guide_card_second_text">Toplu içe aktarma, arkadaş doğum günü eksik değil</string>
