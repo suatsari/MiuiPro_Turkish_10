@@ -5737,4 +5737,6 @@
   <string name="zone_auto_summaryOn">Ağın sağladığı zaman dilimini kullan</string>
   <string name="zone_list_menu_sort_alphabetically">Alfabetik sırala</string>
   <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
+  <string name="add_fingerprint_dirty_fingerprint">Ekranın yüzeyinin temiz olduğundan emin olun. Parmak izinizi tekrar kaydetmeyi deneyin.</string>
+  <string name="add_fingerprint_move_fast">Parmağınızı biraz daha uzun tutun</string>  
 </resources>
