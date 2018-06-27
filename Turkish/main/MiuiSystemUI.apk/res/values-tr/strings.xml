@@ -1691,4 +1691,8 @@
   <string name="zen_priority_introduction">Belirlediğiniz alarmlar, hatırlatıcılar, etkinlikler ve arayanlar dışındaki sesler ve titreşimler sizi rahatsız etmez. Müzik, video ve oyunlar dahil olmak üzere oynatmayı seçtiğiniz herhangi bir şeyi duymaya devam edersiniz.</string>
   <string name="zen_silence_introduction">Bu, alarmlar, müzik, videolar ve oyunlar dahil TÜM sesler ve titreşimleri engeller.</string>
   <string name="zen_silence_introduction_voice">Bu, alarmlar, müzik, videolar ve oyunlar dahil TÜM sesler ve titreşimleri engeller. Hala telefon görüşmesi yapabilirsiniz.</string>
+  <string name="accessibility_menu_item_split_disable">Uygulama bölünmüş ekranı desteklemiyor.</string>
+  <string name="accessibility_menu_item_split_enable">Uygulama bölünmüş ekranı destekler</string>
+  <string name="accessibility_splite_screen_primary">Bölünmüş ekrana birincil uygulama olarak ekle</string>
+  <string name="accessibility_splite_screen_secondary">Bölünmüş ekrana ikincil uygulama olarak ekle</string>  
 </resources>
