@@ -223,4 +223,6 @@
   <string name="open_keep_screen">Ekran tutulacak</string>
   <string name="shut_down_keep_screen">Ekranda tutulmayacak</string>
   <string name="dialog_message_not_remind">Tekrar gösterme</string>
+  <string name="add_clock">Saat ekle</string>
+  <string name="content_desc_keep_screen">\"Ekranını açık tut\" düğmesi</string>  
 </resources>
