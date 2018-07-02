@@ -268,5 +268,9 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="actionbar_close_description">Kapat</string>
   <string name="actionbar_home_description">Geri</string>
   <string name="menu_more_description">Daha</string>
-  <string name="toast_refuse_to_record_when_in_multi_window">Bu özelliği Ekran Bölme ile kullanamazsınız</string>  
+  <string name="toast_refuse_to_record_when_in_multi_window">Bu özelliği Ekran Bölme ile kullanamazsınız</string>
+  <string name="date_time_picker_alarm_reminder">Alarm</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+  <string name="date_time_picker_has_not_set_alarm">Alarm ayarlanmadı</string>
+  <string name="date_time_picker_has_set_alarm">Alarmı başarılı bir şekilde ayarlandı</string>  
 </resources>
