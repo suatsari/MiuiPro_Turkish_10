@@ -160,5 +160,7 @@
   <string name="mountainspring">Dağ bahar</string>
   <string name="notice_audition">Doğa sesleri</string>
   <string name="spaceage">Uzay yaşı</string>
-  <string name="vigor">Dinç</string>  
+  <string name="vigor">Dinç</string> 
+  <string name="cowboy">Kovboy</string>
+  <string name="icelatte">Buzlu latte</string>  
 </resources>
