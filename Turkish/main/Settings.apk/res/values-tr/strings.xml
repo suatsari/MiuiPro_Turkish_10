@@ -3638,7 +3638,7 @@
   <string name="screen_paper_mode_off_apps_title">Okuma Modunu Kullanma</string>
   <string name="screen_paper_mode_range_title">Ayarlar</string>
   <string name="screen_paper_mode_set_apps_title">Okuma Modu uygulamaları</string>
-  <string name="screen_paper_mode_summary">Ekranın arkaplan parlaklığını azalt</string>
+  <string name="screen_paper_mode_summary">Okuma modu, ekranınızın renklerini daha sıcak hale getirir ve gözlerinizin rahatlamasını sağlar.</string>
   <string name="screen_paper_mode_time_summary">Okuma Modu, Ayarlı Zaman olarakta bilinir</string>
   <string name="screen_paper_mode_time_title">Zamanlanmış Program</string>
   <string name="screen_paper_mode_title">Okuma Modu</string>
