@@ -239,7 +239,7 @@
   <string name="micloud_find_device_guide_alert_negtive">Hayır teşekkürler</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Hayır teşekkürler</string>
   <string name="micloud_find_device_guide_alert_positive">TAMAM</string>
-  <string name="micloud_find_device_guide_alert_title">Mi Hesabınızın kimliğini ve şifresini unutmayın</string>
+  <string name="micloud_find_device_guide_alert_title">Şifrenizi unutmayın</string>
   <string name="micloud_find_device_guide_button">Cihazı Bul özelliğini aç</string>
   <string name="micloud_find_device_guide_content">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz sizi bu mesaj için ücretlendirir. SIM kartınızı değiştirdiğinizde, bu özelliği tekrar etkinleştirmek için otomatik olarak bir mesaj gönderilir.</string>
   <string name="micloud_find_device_guide_fail_reopen">Mi Bulut\'ta Cihazı Bul özelliğini aç</string>
