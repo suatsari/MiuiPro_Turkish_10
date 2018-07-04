@@ -1694,5 +1694,10 @@
   <string name="accessibility_menu_item_split_disable">Uygulama bölünmüş ekranı desteklemiyor.</string>
   <string name="accessibility_menu_item_split_enable">Uygulama bölünmüş ekranı destekler</string>
   <string name="accessibility_splite_screen_primary">Bölünmüş ekrana birincil uygulama olarak ekle</string>
-  <string name="accessibility_splite_screen_secondary">Bölünmüş ekrana ikincil uygulama olarak ekle</string>  
+  <string name="accessibility_splite_screen_secondary">Bölünmüş ekrana ikincil uygulama olarak ekle</string>
+  <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>
+  <string name="miui_guide_dialog_button_positive_text">Anladım</string>
+  <string name="miui_guide_dialog_message">Medya sesleri (müzik, videolar, vb.) Sessiz modda oynatılmaya devam eder. Bunu Ayarlar\'dan değiştirebilirsiniz.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de çalacak.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de susturulacak.</string>  
 </resources>
