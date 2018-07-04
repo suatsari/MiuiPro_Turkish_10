@@ -5740,4 +5740,6 @@
   <string name="add_fingerprint_dirty_fingerprint">Ekranın yüzeyinin temiz olduğundan emin olun. Parmak izinizi tekrar kaydetmeyi deneyin.</string>
   <string name="add_fingerprint_move_fast">Parmağınızı biraz daha uzun tutun</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Kilit ekranında önemli bildirimlere izin ver</string>
+  <string name="flash_drive_backup_restore">USB kullanarak yedekleme veya geri yükleme</string>
+  <string name="flash_drive_backup_restore_summary">Bir USB sürücü bağlayın</string>  
 </resources>
