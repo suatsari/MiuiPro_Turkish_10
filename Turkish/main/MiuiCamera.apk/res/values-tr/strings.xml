@@ -558,4 +558,5 @@ Daha iyi efekt için lensi temizleyin."</string>
   <string name="lens_dirty_detected_title_back">Arka kamera merceği kirli</string>
   <string name="lens_dirty_detected_title_front">Ön kamera merceği kirli</string>
   <string name="back_bokeh_use_hint">Nesnenin 1,5 metreden fazla olmadığından emin olun</string>
+  <string name="pref_video_quality_summary">4k video 120fps modunda desteklenmez</string>  
 </resources>
