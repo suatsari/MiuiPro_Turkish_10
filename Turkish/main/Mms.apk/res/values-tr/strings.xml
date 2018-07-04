@@ -375,7 +375,7 @@
     <string name="pref_show_blocked_messages_summary">Engellenen SMS konuşmalar listesinde göster</string>
     <string name="pref_show_list_avatar_summary">Liste görünümünde profil fotoğraflarını ve iletişim bilgilerini göster</string>
     <string name="pref_show_photo_word_summary">Kişiler olmadan otomatik olarak bir resim atayın</string>
-    <string name="pref_show_sms_template_entry_summary">"SMS'de bir kerelik şifreleri algıla"</string>
+    <string name="pref_show_sms_template_entry_summary">Bir kerelik şifreleri algıla ve hızlı menüleri göster</string>
     <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
     <string name="pref_show_sms_template_summary">Mi Mesajda akıllı özellikleri kullanmayı açarsanız kodları kopyalayabilir, dengeleri kontrol edebilirsiniz vb...</string>
     <string name="pref_smart_messages_settings">Akıllı Mesajlar</string>
@@ -598,7 +598,7 @@
     <string name="title_show_blocked_messages">Engellenen Mesajları Göster</string>
     <string name="title_show_list_avatar">Profil fotoğrafını göster</string>
     <string name="title_show_photo_word">İrtibatlı fotoğrafları ata</string>
-    <string name="title_show_sms_template">Doğrulama kodu için SMS kontrolü yap</string>
+    <string name="title_show_sms_template">Akıllı Mesajlaşma</string>
     <string name="title_show_sms_template_in">OTP için SMS Kontrolu</string>
     <string name="title_timed_message_dialog">Zamanlı mesajı ayarla</string>
     <string name="title_use_gsm_alphabet">GSM alfabesini kullan</string>
