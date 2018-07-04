@@ -4289,7 +4289,7 @@
   <string name="status_bar_settings_show_carrier_summary">Operatör adı halen kilit ekranında ve bu özellik kapatıldığında bildirim alanında gösterilir</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Cihaz kilitlendiğinde operatörü göster</string>
   <string name="status_bar_settings_show_floating_notification">Kayan Bildirimler Göster</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Kayan bildirimler ekranın üstünde gösterildikten sonra otomatik olarak kaybolurlar</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Ekranın üst kısmında önemli bildirimlere izin ver</string>
   <string name="status_bar_settings_show_flow_info">Veri kullanımını göster</string>
   <string name="status_bar_settings_show_home_message">Uygulamanın İkon Simgeleri</string>
   <string name="status_bar_settings_show_keyguard_notification">Kilit Ekran Bildirimleri</string>
@@ -5738,5 +5738,6 @@
   <string name="zone_list_menu_sort_alphabetically">Alfabetik sırala</string>
   <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
   <string name="add_fingerprint_dirty_fingerprint">Ekranın yüzeyinin temiz olduğundan emin olun. Parmak izinizi tekrar kaydetmeyi deneyin.</string>
-  <string name="add_fingerprint_move_fast">Parmağınızı biraz daha uzun tutun</string>  
+  <string name="add_fingerprint_move_fast">Parmağınızı biraz daha uzun tutun</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Kilit ekranında önemli bildirimlere izin ver</string>
 </resources>
