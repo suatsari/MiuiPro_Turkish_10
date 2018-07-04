@@ -2298,4 +2298,10 @@
   <string name="xunyou_net_booster_detail">Oyun için Xunyou hız arttırma servislerini kullanın</string>
   <string name="xunyou_pay_webview">Yalnızca yüzdelik</string>
   <string name="xunyou_server_expired">Kapalı</string>
+  <string name="fod_authentication_shift_button">İptal</string>
+  <string name="fod_button_finger">Parmakizi kullan</string>
+  <string name="fod_button_password">Şifre girin</string>
+  <string name="fod_finger_notice_title">Parmağınızı ekrana yerleştirin</string>
+  <string name="fod_finger_windows_tips">Parmak izinizi doğrulayın/<string>
+  <string name="fod_tips_split_screen_more_than_half">Şifre girin</string>  
 </resources>
