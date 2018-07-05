@@ -5741,5 +5741,19 @@
   <string name="add_fingerprint_move_fast">Parmağınızı biraz daha uzun tutun</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Kilit ekranında önemli bildirimlere izin ver</string>
   <string name="flash_drive_backup_restore">USB kullanarak yedekleme veya geri yükleme</string>
-  <string name="flash_drive_backup_restore_summary">Bir USB sürücü bağlayın</string>  
+  <string name="flash_drive_backup_restore_summary">Bir USB sürücü bağlayın</string>
+  <string name="bt_ldac_declaration">Bluetooth cihazı LDAC destekliyorsa, varsayılan olarak bağlanacaktır. LDAC, yüksek kaliteli ses deneyimi ve daha yüksek güç tüketimi sağlar. Bluetooth donanım sınırlamaları nedeniyle oynatma oluşabilir</string>
+  <string name="bt_ldac_dialog_summary">"LDAC yüksek kaliteli ses deneyimi ve daha yüksek güç tüketimi sağlar
+Bu özellik kapalı olabilir [Ayarlar]"</string>
+  <string name="bt_ldac_dialog_title">Geçerli cihaz, varsayılan olarak bağlı olan LDAC destekler:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC yüksek kaliteli ses deneyimi ve daha yüksek güç tüketimi sağlar. Bluetooth donanım sınırlamaları nedeniyle oynatma oluşabilir</string>
+  <string name="bt_ldac_open_dialog_title">LDAC açtığınızdan emin misiniz?</string>
+  <string name="bt_ldac_pre_summary">Yüksek kaliteli bir ses deneyimi sağlayın</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Öznitelik</string>
+  <string name="bt_ldac_remember_choice">Seçimimi hatırla</string>
+  <string name="bt_ldac_settings">Ayarlar</string>
+  <string name="secspace_fod_finger_tips">Doğrulanmadı. Tekrar deneyin.</string>
+  <string name="secspace_fod_finger_title">Parmak izinizi doğrulayın</string>
+  <string name="secspace_fod_use_password">Parolanı gir</string>  
 </resources>
