@@ -437,7 +437,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_vcode_notification_title">Oturum açma doğrulanması tamamlanamadı</string>
   <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
   <string name="passport_vcode_sms_send_prompt">Doğrulama kodunu %s gönder</string>
-  <string name="passport_verification_failed">Kimlik doğrulama başarısız</string>
+  <string name="passport_verification_failed">Hesap doğrulanamadı</string>
   <string name="passport_verify">Doğrula</string>
   <string name="passport_wait_for_sms_prompt">Şimdi baştan başlansın mı? Telefonunuz operatörünüzün şebekesi kapsama alanı içinde olduğunda doğrulama mesajlarının teslim edilmesi 10 dakika sürebilir."</string>
   <string name="passport_welcome_skip_login">Atla</string>
