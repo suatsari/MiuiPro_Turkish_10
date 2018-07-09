@@ -311,4 +311,20 @@
     <item quantity="other">Trojanlar: %d</item>
     <item quantity="one">Trojan: %d</item>
   </plurals>
+  <plurals name="menu_text_antivirus_2">
+    <item quantity="other">%d öğe</item>
+    <item quantity="one">%d öğe</item>
+   </plurals>
+   <plurals name="menu_text_antivirus_3">
+     <item quantity="other">%d gün</item>
+     <item quantity="one">%d gün</item>
+   </plurals>
+   <plurals name="menu_text_antispam_2">
+     <item quantity="other">%d öğe</item>
+     <item quantity="one">%d öğe</item>
+   </plurals>
+   <plurals name="menu_text_app_manager_2">
+     <item quantity="other">%d uygulama</item>
+     <item quantity="one">%d uygulama</item>
+   </plurals>  
 </resources>
