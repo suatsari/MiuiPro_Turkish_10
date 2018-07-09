@@ -335,7 +335,7 @@
   <string name="xspace_default_guide_notification_content">Değiştirmek için dokunun</string>
   <string name="xspace_default_guide_notification_main_title">Varsayılan uygulamayı kullanma</string>
   <string name="xspace_default_guide_notification_xspace_title">Çift uygulama kullanma</string>
-  <string name="xspace_default_setting_dialog_title">Varsayılan</string>
+  <string name="xspace_default_setting_dialog_title"> varsayılan</string>
   <string name="xspace_default_setting_label">Varsayılan uygulama</string>
   <string name="xspace_description">Klonlu uygulamalar ayrı alan kullanır. Klonlu uygulamaların Ana Ekranda simgesi tanımlanacak.</string>
   <string name="xspace_guide_des">İki hesabı geçiş yapmadan kullan</string>
