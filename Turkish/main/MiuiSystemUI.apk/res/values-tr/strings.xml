@@ -1701,4 +1701,11 @@
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de çalacak.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de susturulacak.</string>
   <string name="lockscreen_storage_locked">Tüm özellikler ve veriler için kilidini aç</string>
+  <string name="wireless_change_to_ac_charging">Kablolu şarja geçti</string>
+  <string name="wireless_charge_current">Şarj</string>
+  <string name="wireless_charge_dialog_cancel">Anladım</string>
+  <string name="wireless_charge_dialog_title">Cihazınızı şarj ünitesinin ortasına yerleştirin</string>
+  <string name="wireless_charge_reset_device">Şarj işlemi yavaş. Cihazınızı ayarlayın.</string>
+  <string name="wireless_charge_reset_device_detail">Cihazınızın şarj ünitesindeki pozisyonunun doğru olduğundan emin olun.</string>
+  <string name="wireless_charge_stop">Kablosuz şarj durduruldu</string>  
 </resources>
