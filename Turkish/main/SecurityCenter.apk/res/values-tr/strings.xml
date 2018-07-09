@@ -1142,7 +1142,7 @@
   <string name="menu_text_antispam">Engelli Listesi</string>
   <string name="menu_text_antivirus">Virüs Tara</string>
   <string name="menu_text_garbage_cleanup">Temizleyici</string>
-  <string name="menu_text_garbage_cleanup_danger">%s aşıldı</string>
+  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">İzinler</string>
   <string name="menu_text_networkassistants">Veri Kullanımı</string>
   <string name="menu_text_networkassistants_danger">%s aşıldı</string>
@@ -1155,8 +1155,7 @@
   <string name="menu_text_optimize_manage">Hızlandır</string>
   <string name="menu_text_power_manager">Pil Kullanımı</string>
   <string name="menu_text_power_percent">%s</string>
-  <string name="menu_text_power_percent_title">Pil: %s</string>
-  <string name="menu_text_power_percent_title_default">Pil</string>
+  <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">İstisnalardan kaldır</string>
   <string name="menu_white">Hariç tutulan</string>
   <string name="mi_pay_lucky">小米钱包</string>
@@ -1702,7 +1701,6 @@
   <string name="scan_status_risk">Riskli</string>
   <string name="scan_status_safe">Güvenli</string>
   <string name="scanning_bar_number">%%%d</string>
-  <string name="score_pts">%</string>
   <string name="screenrecord_not_find">Ekran Kaydedicinin son sürümünü yükleyin ve tekrar deneyin.</string>
   <string name="search_input_txt_na">&lt;font color=\"#ff0000\"&gt;%s&lt;/font&gt;</string>
   <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>
