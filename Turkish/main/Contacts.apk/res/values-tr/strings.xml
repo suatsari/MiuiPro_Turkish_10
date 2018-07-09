@@ -1491,4 +1491,6 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="no_setting_menu">Kullanılabilir menü seçeneği yok</string>
   <string name="contact_detail_entry_pay_request">Para iste</string>
   <string name="preference_show_firewall_calllog">Engellenen aramaları çağrı geçmişinde göster</string>
+  <string name="toast_call_no_SoundRecorder">Kaydedici uygulaması mevcut değil</string>
+  <string name="toast_call_no_notes">Notlar uygulaması mevcut değil</string>  
 </resources>
