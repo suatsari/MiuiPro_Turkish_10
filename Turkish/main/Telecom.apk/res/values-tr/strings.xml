@@ -567,4 +567,5 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_verbose_logging">Kablosuz Ayrıntılı Günlüğü Etkinleştir</string>
   <string name="wifi_verbose_logging_summary">Wi-Fi günlük seviyesini artırın, her RSSI başına bir Wi-Fi Seçici göster</string>
   <string name="window_animation_scale_title">Animasyon Penceresinin Ölçeği</string>
+  <string name="close">Kapat</string>
 </resources>
