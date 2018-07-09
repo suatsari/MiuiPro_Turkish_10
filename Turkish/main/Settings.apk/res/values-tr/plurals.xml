@@ -297,7 +297,7 @@
     <item quantity="one">Sadece %2$s dakika boyunca alarmı değiştir</item>
   </plurals>
   <plurals name="show_reset_countdown">
-     <item quantity="other">Fabrika ayarlarına sıfırlama işlemi için %1$d adımlarını tamamlayın</item>
-     <item quantity="one">Fabrika ayarlarına sıfırlama işlemi için %1$d adımını tamamlayın</item>
+    <item quantity="other">Fabrika ayarlarına sıfırlama işlemi için %1$d adımlarını tamamlayın</item>
+    <item quantity="one">Fabrika ayarlarına sıfırlama işlemi için %1$d adımını tamamlayın</item>
   </plurals>  
 </resources>
