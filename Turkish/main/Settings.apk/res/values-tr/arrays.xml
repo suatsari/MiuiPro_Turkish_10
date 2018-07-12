@@ -1254,4 +1254,8 @@
     <item>Animasyon ölçeği 5x</item>
     <item>Animasyon ölçeği 10x</item>
   </string-array>
+  <string-array name="notch_battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzdeli</item>
+  </string-array> 
 </resources>
