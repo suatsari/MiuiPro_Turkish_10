@@ -122,5 +122,9 @@
     <plurals name="clean_long_msg_p2">
         <item quantity="other">Saniyede %1$d öğe | Kalan süre: %2$s</item>
         <item quantity="one">Saniyede %1$d öğe | Kalan süre: %2$s</item>
-    </plurals> 	
+    </plurals>
+    <plurals name="whatsapp_delete_files">
+        <item quantity="other">%1$d dosyayı sil?</item>
+        <item quantity="one">%1$d dosyayı sil?</item>
+    </plurals>	
 </resources>
