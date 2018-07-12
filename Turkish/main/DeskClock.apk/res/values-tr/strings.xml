@@ -208,10 +208,8 @@
   <string name="timer_alert_type_summer_night">Yaz gecesi</string>
   <string name="timer_cancel_timer">Zamanlayıcıyı iptal et</string>
   <string name="timer_continue_timer">Zamanlayıcıyı sürdür</string>
-  <string name="timer_pause_hint">Duraklat</string>
   <string name="timer_pause_timer">Zamanlayıcıyı duraklat</string>
   <string name="timer_running">Zamanlayıcı çalışıyor</string>
-  <string name="timer_running_hint">Devam et</string>
   <string name="timer_start_timer">Zamanlayıcıyı başlat</string>
   <string name="worldclock_input_hint_text">Şehir girin</string>
   <string name="worldclock_search_city">Şehir seç</string>
