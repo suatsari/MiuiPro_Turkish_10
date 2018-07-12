@@ -225,4 +225,8 @@
   <string name="dialog_message_not_remind">Tekrar gösterme</string>
   <string name="add_clock">Saat ekle</string>
   <string name="content_desc_keep_screen">\"Ekranını açık tut\" düğmesi</string>  
+  <string name="timer_cancel_hint">Dur</string>
+  <string name="timer_end_time">Zamanlayıcı %s olunca duracak</string>
+  <string name="timer_end_time_format">HH:mm MMM dd</string>
+  <string name="timer_end_time_format_today">HH:mm</string> 
 </resources>
