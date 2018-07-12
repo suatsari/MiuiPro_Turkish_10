@@ -166,4 +166,8 @@
         <item>us</item>
         <item>ps</item>
     </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Eşit taksitler</item>
+        <item>Azalan taksit</item>
+	</string-array>  
 </resources>
