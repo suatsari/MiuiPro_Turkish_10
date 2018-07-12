@@ -633,4 +633,28 @@
   <string name="tips_low_storage_dialog_title">Depolama alanı azalıyor</string>
   <string name="clean_long_msg">"%1$d dosya temizleniyor,%2$d tamamlandı 
 %3$d%% öğe/saniye kaldı:%4$s"</string> 
+  <string name="main_total_garbage">Toplam çöp</string>
+  <string name="whatsapp_btn_quick_cleanup">Temizle %s</string>
+  <string name="whatsapp_clean_exit_confirm_cancel">İptal</string>
+  <string name="whatsapp_clean_exit_confirm_msg">Taramayı durdur</string>
+  <string name="whatsapp_clean_exit_confirm_ok">Tamam</string>
+  <string name="whatsapp_clean_exit_confirm_title">WhatsApp temizleme taramasını durdur</string>
+  <string name="whatsapp_content_empty">Temizlenecek dosya yok</string>
+  <string name="whatsapp_delete_confirm_message">Sil?</string>
+  <string name="whatsapp_delete_done">Hepsi bitti!</string>
+  <string name="whatsapp_file_show_order">Bugün</string>
+  <string name="whatsapp_function_summery">Whatshapp önemsiz dosyaları temizle</string>
+  <string name="whatsapp_function_title">WhatsApp için temizle</string>
+  <string name="whatsapp_group_audio">Ses</string>
+  <string name="whatsapp_group_document">Belge</string>
+  <string name="whatsapp_group_gif">GIF</string>
+  <string name="whatsapp_group_image">Görüntü</string>
+  <string name="whatsapp_group_video">Video</string>
+  <string name="whatsapp_group_voice">Ses</string>
+  <string name="whatsapp_group_wallpaper">Duvar kağıdı</string>
+  <string name="whatsapp_title">Whatsapp için temizle</string>
+  <string name="whatsapp_type_document_recv">Alınan dosyalar</string>
+  <string name="whatsapp_type_document_send">Gönderilen dosyalar</string>
+  <string name="whatsapp_type_image_recv">Alınan resimler</string>
+  <string name="whatsapp_type_image_send">Gönderilen resimler</string>  
 </resources>
