@@ -611,7 +611,6 @@
   <string name="dialog_roaming_warning_checkbox">Tekrar gösterme</string>
   <string name="dialog_roaming_warning_message">Uluslararası veri dolaşımını açtıktan sonra operatör sizi ücretlendirecektir. Yinede açılsın mı?</string>
   <string name="dialog_roaming_warning_ok">Aç</string>
-  <string name="dialog_text">Oyun hızı yükselticisi için Ana ekran kısayolu oluşturma</string>
   <string name="dialog_title_attention">Dikkat</string>
   <string name="dialog_title_auto_start_declare">Otomatik Başlatma Hakkında</string>
   <string name="dialog_title_stop_virus_scan">Virüs taramasını durdur</string>
@@ -671,8 +670,6 @@
   <string name="do_clean">Temizleniyor...</string>
   <string name="domestic_roaming_setting">Ulusal dolaşım</string>
   <string name="dont_bore">Düğmelerin ve bildirimlerin sizi rahatsız etmesine izin verme</string>
-  <string name="dont_bore_text">Dikkat dağıtımlarını önlemek için bildirimleri susturun ve düğmeleri kapatın</string>
-  <string name="dont_bore_title">Rahatsız etme modu</string>
   <string name="download">İndir</string>
   <string name="downloading">İndiriliyor...</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -773,13 +770,7 @@
   <string name="game_booster_tab_top">Üst</string>
   <string name="game_booster_title">Artırma</string>
   <string name="game_bootser_tab_settings">Yükseltici ayarları</string>
-  <string name="game_improve_text1">Oyun oynarken boş alanı artırma için arka plan önbelleğini temizleyin</string>
-  <string name="game_improve_text2">Oyun için bellek boşaltmak ve CPU performansını artırmak için arka plan önbelleğini temizleyin</string>
-  <string name="game_improve_title">Performansı optimize etme</string>
   <string name="game_more_improve">Oyun oynarken pil ve bant genişliğini azaltmak için arka plan etkinliklerini ve indirme hızını kısıtlayın</string>
-  <string name="game_net_text1">Ağ gecikmesini azaltmak için arka plan indirme hızını sınırlayın</string>
-  <string name="game_net_text2">Ağ gecikmesini azaltmak için arka plan indirme hızını sınırlayarak oyunun bağlantı hızını artırın</string>
-  <string name="game_net_title">Bağlantı hızını optimize etme</string>
   <string name="game_setting">Oyun ayarları</string>
   <string name="gamebooster_lowbattery_notification_summary">Cihazınızı kapatmadan önce şarj edin.</string>
   <string name="gamebooster_lowbattery_notification_title">Pil yüzde 5\'ten düşük</string>
@@ -915,8 +906,6 @@
   <string name="installing">Yükleniyor</string>
   <string name="international_Ad">Hedef</string>
   <string name="international_roaming_setting">Yurtdışı Dolaşım</string>
-  <string name="intro_improve">Oyun deneyiminizi bir sistem seviyesinde artırın</string>
-  <string name="intro_skip">Atla</string>
   <string name="ip_address_exception_summary">IP adresi alınamadı. Bu soruna tekrar girerseniz, statik bir IP adresi kullanmayı deneyin.</string>
   <string name="item_app_permission">Uygulama İzinleri</string>
   <string name="item_dev_mode">Geliştirici Seçenekleri</string>
@@ -1691,8 +1680,6 @@
   <string name="safe_result_item_info_system_version">MIUI sürümü güncel</string>
   <string name="safepay_alert_dialog_button_continue">Devam edildi</string>
   <string name="safepay_alert_dialog_button_fix">Düzelt</string>
-  <string name="save_energy_text">Pili eniyi hale getirmek için otomatik başlatmayı ve arka planda eşitleme işlemlerini kısıtlayın</string>
-  <string name="save_energy_title">Pili optimize etme</string>
   <string name="sc_allow_network_dialog_message">Bu uygulama normal bir şekilde çalışması için internete bağlı olması gerekiyor.</string>
   <string name="sc_allow_network_dialog_tiltle">Bu özelliği kullanamazsınız</string>
   <string name="sc_system_risk_fix_info_xspace">İkinci alan bunu çözemez. Birinci alanda tekrar deneyin.</string>
