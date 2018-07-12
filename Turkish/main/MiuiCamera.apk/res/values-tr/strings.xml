@@ -575,5 +575,6 @@ kullanabilirsiniz"</string>
   <string name="lighting_pattern_nature">Doğal</string>
   <string name="lighting_pattern_rainbow">Gökkuşağı</string>
   <string name="lighting_pattern_shutter">Panjur</string>
-  <string name="lighting_pattern_stage">Aşama</string>  
+  <string name="lighting_pattern_stage">Aşama</string>
+  <string name="pref_camera_super_resolution_title">SR\'yi aç</string>
 </resources>
