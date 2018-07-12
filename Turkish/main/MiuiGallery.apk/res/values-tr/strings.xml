@@ -352,7 +352,6 @@
   <string name="enable_cloud_for_sharing">Paylaşılan fotoğrafları görüntülemek için Bulut albümlerini açmanız gerekir.</string>
   <string name="enable_face_album_summary">Kişilere göre fotoğrafları otomatik sırala</string>
   <string name="enable_face_album_title">Kişiye Göre Sırala</string>
-  <string name="enabling_face_feature">Biraz bekleyin...</string>
   <string name="enter_email_hint">E-Posta adresini girin</string>
   <string name="error_album_not_exist">Albüm yok</string>
   <string name="error_build_thumbnail_action">Orijinal dosyayı indir</string>
@@ -422,14 +421,12 @@
   <string name="exit_share_successfully">%1$s paylaşımdan çıkıldı</string>
   <string name="exit_video_play">Çıkış</string>
   <string name="expand_people">Fazla kişiyi genişlet</string>
-  <string name="face_album_detecting_tip">Biraz bekleyin...</string>
   <string name="face_album_empty">Tanımlı kişiler için yeterli fotoğraf yok.\u000d\nArkadaşlarınız için  daha çok fotoğraf çekin!</string>
   <string name="face_album_empty_syncing">Veri eşitleniyor.</string>
   <string name="face_album_empty_syncing_when_connect_wifi">Cihaz WLAN ağına bağlı olduğunda yüz verilerini eşitle.</string>
   <string name="face_album_long_tap_tip">Birden fazla kişiyi veya gurp ayarları değiştirmek için &amp; profil fotoğrafına basılı tutun</string>
   <string name="face_album_new_name_hint">Yeni Ad</string>
   <string name="face_album_not_named">İsimsiz</string>
-  <string name="face_album_pending_enable_tip">Cihaz WLAN\'a bağlı olduğunda fotoğrafları sıralayacak</string>
   <string name="face_album_rename_hint">Adını Girin</string>
   <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">Otomatik olarak insanlara göre fotoğrafları sırala</string>
@@ -901,7 +898,6 @@
   <string name="search_select_network">Şebeke seç</string>
   <string name="search_set_network_connection">Ağ Ayarları</string>
   <string name="search_setting_sub_title">Geliştirilmiş resim arama</string>
-  <string name="search_setting_sub_title_open">Onaylı.Başlamadan önce biraz bekleyin.</string>
   <string name="search_setting_title">Galeri\'deki fotoğrafları bulun</string>
   <string name="search_syncing">Verileri senkronize edin, sonra geri dönün</string>
   <string name="search_title_album">Albüm</string>
@@ -1134,7 +1130,6 @@
   <string name="video_not_exist">Video mevcut değil</string>
   <string name="view_by_gallery_tip">MIUI Galerisi</string>
   <string name="view_face_album">Albümü Görüntüle</string>
-  <string name="view_queuing_status">Durumu denetle</string>
   <string name="welcome_to_micloud">Mi Bulut\'a Hoşgeldiniz</string>
   <string name="where_is_barcode">QR kodu nerede?</string>
   <string name="who_is_this">Kim?</string>
@@ -1237,7 +1232,7 @@
   <string name="video_editor_smart_effect_fastslow">Hareket</string>
   <string name="video_editor_smart_effect_freesze">Hareketi durdur</string>
   <string name="video_editor_smart_effect_halo">Halka</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Bu efekt, yüksek kare hızında videolar ile en iyi şekilde çalışır.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Bu efekt 120 fps videolarda en iyi şekilde çalışır.</string>
   <string name="video_editor_smart_effect_movie">Film</string>
   <string name="video_editor_smart_effect_none">Hiçbiri</string>
   <string name="video_editor_smart_effect_radical">İyimser</string>
@@ -1256,7 +1251,8 @@
   <string name="checked_something">%s seçili</string>
   <string name="enter_choice_mode">Girilen paylaşım iletişim kutusu</string>
   <string name="exit_choice_mode">Sol Paylaşım iletişim kutusu</string>
-  <string name="feature_guidance_photo_effects">Fotoğraf efektleri</string>
+  <string name="feature_guidance_photo_effects">"Yeni fotoğraf efekti
+mevcut"</string>
   <string name="image_with_time">Fotoğraf %s tarihinde çekilmiş</string>
   <string name="image_with_time_and_location">Fotoğraf %1$s tarihinde çekilmiş. Yer: %2$s.</string>
   <string name="storage_description_usb">USB depolama</string>
@@ -1264,4 +1260,21 @@
   <string name="unchecked_something">%s seçim kaldırıldı</string>
   <string name="video_with_time">Video %s tarihinde çekilmiş</string>
   <string name="video_with_time_and_location">Video %1$s tarihinde çekilmiş. Yer: %2$s.</string>  
+  <string name="album_notes">Notlar</string>
+  <string name="feature_guidance_video_editor_smart_effects">Yeni efektler mevcut</string>
+  <string name="photomovie_audio_default">Hafıza</string>
+  <string name="photomovie_audio_kawaii">Romantik</string>
+  <string name="photomovie_audio_light">Türkü</string>
+  <string name="photomovie_audio_linear">Rock</string>
+  <string name="photomovie_audio_soft">Havai kitarası</string>
+  <string name="photomovie_audio_sport">Tekno</string>
+  <string name="photomovie_template_kawaii">Güzellik</string>
+  <string name="photomovie_template_light">Esinti</string>
+  <string name="photomovie_template_linear">Yok gezisi</string>
+  <string name="photomovie_template_soft">Gençlik</string>
+  <string name="photomovie_template_sport">Güç</string>
+  <string name="picker_origin_request_progress_message">Orijinal dosyalar hazırlanıyor (%1$d/%2$d)…</string>
+  <string name="search_request_requesting">Uygulandı. Başlamadan önce biraz bekleyin.</string>
+  <string name="secret_reason_video_not_support">Gizli albüme video eklenemez</string>
+  <string name="video_editor_video_loading">Video hazırlanıyor, bir iki saniye bekleyin ve tekrar deneyin.</string>  
 </resources>
