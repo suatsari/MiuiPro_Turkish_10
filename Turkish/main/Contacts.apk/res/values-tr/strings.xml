@@ -417,7 +417,7 @@ Kartvizitler kapalı"</string>
     <string name="disclaimer_text">"Sarı sayfalar SMS göndererek bakiyenizle ilgili bilgi alır. Operatörünüz bu bilgiyi bir gecikme ile güncelleyebilir, dolayısıyla aldığınız sayılar doğru olmayabilir. Bir hata görürseniz, bu hizmeti iyileştirmemize yardımcı olmak için soruşturma SMS'iyle bildirebilirsiniz. 
 
 Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelliyoruz."</string>
-    <string name="disclaimer_title">Disclaimer</string>
+    <string name="disclaimer_title">Feragat</string>
     <string name="display_all_contacts">Tüm Kişiler</string>
     <string name="display_more_groups">Diğer Grup</string>
     <string name="display_only_phones">Eksik Numaraları Gizle</string>
