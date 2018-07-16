@@ -739,7 +739,7 @@
   <string name="firewall_system_title">Sistem uygulamaları için veri kullanımı</string>
   <string name="firewall_temp_rule_reason">%1$s​ için %2$s kısıtlı internet bağlantısı​</string>
   <string name="firewall_wifi_dialog_message">Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamaz.</string>
-  <string name="five_percent_total_pkg" formatted="false">%s (aylık verilerin % 5\'i)</string>
+  <string name="five_percent_total_pkg">%s (aylık verinin 5%%\'i)</string>
   <string name="forbid_autobright_summary">Oyun oynarken ekran parlaklığı aynı kalır</string>
   <string name="forbid_autobright_title">Ekran parlaklığını düzenle</string>
   <string name="foreground_traffic">Önplanda: %s</string>
@@ -2057,7 +2057,7 @@
   <string name="tc_sms_report_upload_success">Veri kullanım raporu SMS olarak sunuldu. Bunda bizimde hakkımız var!</string>
   <string name="tc_sms_report_upload_when_net">Görüşleriniz için teşekkür ederiz!</string>
   <string name="tc_web_correct_error">Kalibre edilemedi</string>
-  <string name="ten_percent_total_pkg">%s (Aylık verilerin yüzde 10\'u)</string>
+  <string name="ten_percent_total_pkg">%s (aylık verinin 10%%\'u)</string>
   <string name="tether_custom_dialog_title">Mobil veri limiti</string>
   <string name="tether_limit_dialog_title">Mobil veri limiti</string>
   <string name="tether_limit_value_custom">Özel</string>
@@ -2071,7 +2071,7 @@
   <string name="thermal_tips_message">Performans modunda oyun oynamak aşırı ısınma sorunlarına neden olabilir.</string>
   <string name="thermal_tips_title">Dikkat</string>
   <string name="third_application">Üçüncü taraf uygulamalar</string>
-  <string name="three_percent_total_pkg">%s (Aylık verilerin yüzde 3\'ü)</string>
+  <string name="three_percent_total_pkg">%s (aylık verinin 3%%\'ü)</string>
   <string name="timeshow_h">%.1fs</string>
   <string name="timeshow_h_int">%ds</string>
   <string name="timeshow_m">%ddak</string>
