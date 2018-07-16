@@ -2287,7 +2287,7 @@
   <string name="fod_button_finger">Parmakizi kullan</string>
   <string name="fod_button_password">Şifre girin</string>
   <string name="fod_finger_notice_title">Parmağınızı ekrana yerleştirin</string>
-  <string name="fod_finger_windows_tips">Parmak izinizi doğrulayın/<string>
+  <string name="fod_finger_windows_tips">Parmak izinizi doğrulayın</string>
   <string name="fod_tips_split_screen_more_than_half">Şifre girin</string>
   <string name="card_main_gamebooster_summary">Oyunlar için bağlantı kararlılığını artırın</string>
   <string name="menu_summary_antispam">Çağrıları ve mesajları engelle</string>
