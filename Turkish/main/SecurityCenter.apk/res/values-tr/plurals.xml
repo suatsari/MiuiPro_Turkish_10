@@ -41,8 +41,8 @@
     <item quantity="one">%d uygulama korunuyor</item>
   </plurals>
   <plurals name="daily_sim_over_limit_dialog_message">
-    <item quantity="other">Zaten %s günlük veri sınırını kullandınız.\u000d\n\u000d\nMobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret isteyebilir.</item>
-    <item quantity="one">Zaten %s günlük veri sınırını kullandınız.\u000d\n\u000d\nMobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret isteyebilir.</item>
+    <item quantity="other">Zaten %s günlük veri sınırını kullandınız.\n\nMobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret isteyebilir.</item>
+    <item quantity="one">Zaten %s günlük veri sınırını kullandınız.\n\nMobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret isteyebilir.</item>
   </plurals>
   <plurals name="daily_sim_over_limit_notify_title">
     <item quantity="other">Zaten %s günlük veri sınırını kullandınız.</item>
