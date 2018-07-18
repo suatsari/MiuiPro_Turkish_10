@@ -1693,8 +1693,8 @@
   <string name="zen_silence_introduction_voice">Bu, alarmlar, müzik, videolar ve oyunlar dahil TÜM sesler ve titreşimleri engeller. Hala telefon görüşmesi yapabilirsiniz.</string>
   <string name="accessibility_menu_item_split_disable">Uygulama bölünmüş ekranı desteklemiyor.</string>
   <string name="accessibility_menu_item_split_enable">Uygulama bölünmüş ekranı destekler</string>
-  <string name="accessibility_splite_screen_primary">Bölünmüş ekrana birincil uygulama olarak ekle</string>
-  <string name="accessibility_splite_screen_secondary">Bölünmüş ekrana ikincil uygulama olarak ekle</string>
+  <string name="accessibility_splite_screen_primary">Bölünmüş ekranda birincil uygulama olarak eklendi</string>
+  <string name="accessibility_splite_screen_secondary">Bölünmüş ekranda ikincil uygulama olarak eklendi</string>
   <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>
   <string name="miui_guide_dialog_button_positive_text">Anladım</string>
   <string name="miui_guide_dialog_message">Medya sesleri (müzik, videolar, vb.) Sessiz modda oynatılmaya devam eder. Bunu Ayarlar\'dan değiştirebilirsiniz.</string>
@@ -1731,5 +1731,7 @@
   <string name="structure_face_unlock_model_other_msg_3d">3D tanıma</string>
   <string name="structure_face_unlock_model_other_suggestion_2d">2B yüz tanıma, bir desen, PIN veya şifreden daha az güvenlidir. Özellik açıkken, cihazınız fotoğrafınızın yanı sıra sizin gibi görünen kişiler veya nesneler tarafından açılabilir.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">3B yüz tanıma nispeten güvenlidir. Bu özellik açıkken, cihazınızın fotoğrafınızla kilidinin açılması pek olası değildir. Ancak, sizin gibi görünen insanlar veya nesneler tarafından açılabilir.</string>
-  <string name="structure_face_unlock_model_other_title">Yüz tanıma</string>  
+  <string name="structure_face_unlock_model_other_title">Yüz tanıma</string> 
+  <string name="structure_face_unlock_not_same_person">Tüm adımları kendiniz tamamlamanız gerekir. Yerleri kimseyle değiştirmeyin.</string>
+  <string name="structure_face_unlock_really_person">Görünüşe göre yüzünü bir nesneyle değiştirmişsin.</string>  
 </resources>
