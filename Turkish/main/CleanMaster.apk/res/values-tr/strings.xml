@@ -656,5 +656,8 @@
   <string name="whatsapp_type_document_recv">Alınan dosyalar</string>
   <string name="whatsapp_type_document_send">Gönderilen dosyalar</string>
   <string name="whatsapp_type_image_recv">Alınan resimler</string>
-  <string name="whatsapp_type_image_send">Gönderilen resimler</string>  
+  <string name="whatsapp_type_image_send">Gönderilen resimler</string>
+  <string name="whatsapp_delete_confirm_cancel">İptal</string>
+  <string name="whatsapp_delete_confirm_message">Şimdi sil?</string>
+  <string name="whatsapp_delete_confirm_ok">Tamam</string>  
 </resources>
