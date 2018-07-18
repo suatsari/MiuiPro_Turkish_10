@@ -3039,7 +3039,7 @@
   <string name="owner_info_settings_title">Kilit Ekranda Sahip Bilgisi</string>
   <string name="owner_space">İlk Alan</string>
   <string name="packages_subtitle">Dahil Paketler</string>
-  <string name="page_layout_1">1 Kasım 1928</string>
+  <string name="page_layout_1">16 Ağustos Pazar</string>
   <string name="page_layout_2">Kamera</string>
   <string name="page_layout_3">Galeri</string>
   <string name="page_layout_4">Müzik</string>
@@ -3059,13 +3059,13 @@
   <string name="page_layout_22">Profilim</string>
   <string name="page_layout_23">Gruplarım</string>
   <string name="page_layout_24">FAVORİLER</string>
-  <string name="page_layout_25">SOKOLLU MEHMET PAŞA</string>
-  <string name="page_layout_26">BARBAROS HAYRETTİN PAŞA</string>
-  <string name="page_layout_27">ORHAN ÇAKMAK</string>
-  <string name="page_layout_28">İDRİS BİTLİS-İ</string>
-  <string name="page_layout_29">AHMET CEVDET PAŞA</string>
-  <string name="page_layout_30">Şefareddin Sabuncuoğlu</string>
-  <string name="page_layout_31">II. Çelebi Mehmet Paşa</string>
+  <string name="page_layout_25">Hugo Barra</string>
+  <string name="page_layout_26">Manvendra Gupta</string>
+  <string name="page_layout_27">Manu Jain</string>
+  <string name="page_layout_28">Clinton Jeff</string>
+  <string name="page_layout_29">Santi Kuan</string>
+  <string name="page_layout_30">Jai Mani</string>
+  <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_32">Play Store</string>
   <string name="page_layout_33">Google</string>
   <string name="page_layout_confirm_message">Cihazınız bu değişiklikleri uygulamak için bilgisayarınızı yeniden başlatmanızı istiyor. Bu yaklaşık 1 dakika sürer.</string>
@@ -4385,7 +4385,6 @@
   <string name="storage_settings">Depolama</string>
   <string name="storage_settings_summary">USB depolama bağlantısını kes, mevcut depolamayı görüntüle</string>
   <string name="storage_settings_title">Depolama Ayarları</string>
-  <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_summary">%2$s/%1$s kullanıldı</string>
   <string name="storage_summary_format">%2$s içindeki %1$s kullanıldı</string>
   <string name="storage_summary_with_sdcard">Dahili depolama: %1$s kullanılan - %2$s boş</string>
@@ -5760,5 +5759,9 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="structure_manage_facerecoginition_text">3B yüz verilerini yönetin</string>
   <string name="sound_stereo_mode_summary">Sadece hoparlör ile ses çalarken kullanılabilir</string>
   <string name="sound_stereo_mode_title">Stereo ses</string>
-  <string name="unmute_sound_title">Sesi açma sesi</string>  
+  <string name="unmute_sound_title">Sesi açma sesi</string>
+  <string name="Data_set">" / Veri: "</string>
+  <string name="rgb_manage_facerecoginition_text">2B yüz verilerini yönetin</string>
+	<string name="search_android_beam_settings_title">NFC;Android Işın;Işın</string>
+	<string name="Voice_set">"Ses: "</string>  
 </resources>
