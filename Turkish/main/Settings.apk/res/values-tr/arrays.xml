@@ -1257,5 +1257,12 @@
   <string-array name="notch_battery_indicator_style_entries">
     <item>Grafiksel</item>
     <item>Yüzdeli</item>
-  </string-array> 
+  </string-array>
+  <string-array name="wifi_signal">
+    <item>Zayıf</item>
+    <item>Zayıf</item>
+    <item>Orta</item>
+    <item>İyi</item>
+    <item>Mükemmel</item>
+  </string-array>  
 </resources>
