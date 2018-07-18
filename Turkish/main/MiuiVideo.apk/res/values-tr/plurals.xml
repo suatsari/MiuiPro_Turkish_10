@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="comment_count">
-    <item quantity="other">%d yorumlar</item>
+    <item quantity="other">%d yorum</item>
     <item quantity="one">%d yorum</item>
   </plurals>
   <plurals name="comment_sub_count">
-    <item quantity="other">%d cevaplar</item>
+    <item quantity="other">%d cevap</item>
     <item quantity="one">%d cevap</item>
   </plurals>
   <plurals name="comment_view_all_comment">
