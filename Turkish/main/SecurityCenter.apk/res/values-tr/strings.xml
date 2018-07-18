@@ -229,7 +229,7 @@
   <string name="app_manager_unstall_application">Kaldır</string>
   <string name="app_managere_not_have_app">Boş</string>
   <string name="app_manger_des_separator">", "</string>
-  <string name="app_mobile">Mobil</string>
+  <string name="app_mobile">Mobil veri</string>
   <string name="app_name">Uygulama Kilidi</string>
   <string name="app_name_na">Veri Kullanımı</string>
   <string name="app_name_securitycenter">Güvenlik</string>
@@ -245,7 +245,7 @@
   <string name="applock_add_account_info">Mi Hesabı şifresini sıfırlarken unutmayacağınız\nbir şifre kullanın</string>
   <string name="applock_add_account_setting">Hesap &amp; Gizlilik</string>
   <string name="applock_bind_account_title">Parolamı unuttum</string>
-  <string name="applock_close_dialog_summary">Tüm gizli uygulamalar gizlenemeyecek, Ana ekran kısayolları geri yüklenecek ve uygulama kilit şifreniz silinecektir. Uygulama kilidini kapat?</string>
+  <string name="applock_close_dialog_summary">Uygulamalar artık korunmayacak ve uygulama kilidini kapattıktan sonra şifreniz silinecektir.</string>
   <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
   <string name="applock_exit_account_info">Hesap oturum kapatılınca otomatik olarak kaldırılacak</string>
   <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin.</string>
@@ -2323,19 +2323,5 @@
   <string name="gb_first_window_start">Oynamaya başla</string>
   <string name="gb_first_window_summary">Sistem düzeyinde hız ve performans artışı</string>
   <string name="gb_first_window_title">Oyun hız yükselticisi</string>
-  <string name="manage_hybrid_permissions">Uygulamanın izinlerini yönet</string>
-  <string name="privacy_apps">Gizli uygulamalar</string>
-  <string name="privacy_apps_category_title">Gizli uygulamalar</string>
-  <string name="privacy_apps_checkbox_remind_choice">Tekrar gösterme</string>
-  <string name="privacy_apps_close">Kapat</string>
-  <string name="privacy_apps_enable_summary">Uygulamaları gizli bir klasöre taşı ve ana ekran kısayollarını kaldır</string>
-  <string name="privacy_apps_go_to_use">Başla</string>
-  <string name="privacy_apps_manage">Gizli uygulamaları yönetin</string>
-  <string name="privacy_apps_manage_dialog_title">Gizli uygulamalar hakkında</string>
-  <string name="privacy_apps_manager_dialog_message">Uygulamaların gizlenmesi için uygulama ekran kilidini ayarlamanız gerekir. Gizli uygulamalar için bildirimler kapatılacak. Bu uygulamayı gizle?</string>
-  <string name="privacy_apps_tutorial">Öğretici</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Bir uygulamayı gizlediğinizde, gizli bir klasöre taşınır. Ana ekran kısayolu da gizlenir.
-Bu özellik sistem uygulamaları için desteklenmiyor."</string>
-  <string name="privacy_apps_tutorial_prompt_pagethree">Şifrenizi girdikten sonra, gizli uygulamaların bulunduğu klasör görünecektir.</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">Ekranda iki parmağınızı yayın. Uygulama kilitleme şifrenizi girmenizi isteyen bir mesaj görürsünüz.</string>  
+  <string name="manage_hybrid_permissions">Uygulamanın izinlerini yönet</string> 
 </resources>
