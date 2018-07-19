@@ -5765,5 +5765,6 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="search_android_beam_settings_title">NFC;Android Işın;Işın</string>
   <string name="Voice_set">"Ses: "</string> 
   <string name="structure_face_enroll_not_able_low_electric_itle">Düşük pil nedeniyle bu özelliği kullanamazsınız</string>
-  <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>  
+  <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Bildirim alanı kısayolu</string>
 </resources>
