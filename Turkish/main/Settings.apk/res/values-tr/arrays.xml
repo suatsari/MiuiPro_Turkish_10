@@ -1264,5 +1264,9 @@
     <item>Orta</item>
     <item>İyi</item>
     <item>Mükemmel</item>
+  </string-array>
+  <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+    <item>Arama</item>
+    <item>Ayarlar</item>
   </string-array>  
 </resources>
