@@ -175,7 +175,7 @@
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
-  <string name="change_default_dialer_dialog_title">Varsayılan arayıcı uygulaması değiştirilsin mi?</string>
+  <string name="change_default_dialer_dialog_title">%s varsayılan Telefon uygulamanız mı?</string>
   <string name="change_default_dialer_no_previous_app_set_text">%s varsayılan arama uygulaması olarak değiştirilsin mi?</string>
   <string name="change_default_dialer_with_previous_app_set_text">%1$s yerine %2$s varsayılan arama uygulaması olarak değiştirilsin mi?</string>
   <string name="charge_length_format">%1$s önce</string>
