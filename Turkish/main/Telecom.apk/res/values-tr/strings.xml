@@ -396,7 +396,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="pointer_location">İşaretleyici Konumu</string>
   <string name="pointer_location_summary">Geçerli dokunmatik verileri gösteren ekranın yer paylaşımı</string>
   <string name="power_charging">%1$s - %2$s</string>
-  <string name="power_charging_duration">Doluma: %1$s - %2$s</string>
+  <string name="power_charging_duration">^1 - tam doluma ^2 kaldı</string>
   <string name="power_charging_duration_ac">AC üzerinden doluma: %1$s - %2$s </string>
   <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
   <string name="power_charging_duration_short">%1$s - %2$s</string>
@@ -404,10 +404,14 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">Kablosuzla doluma: %1$s - %2$s</string>
   <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
-  <string name="power_discharging_duration">%1$s - yaklaışık %2$s kaldı</string>
-  <string name="power_discharging_duration_short">%1$s - %2$s kaldı</string>
-  <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
-  <string name="power_remaining_duration_only_short">%1$s kaldı</string>
+  <string name="power_remaining_duration_only">Yaklaşık ^1 kaldı</string>
+  <string name="power_remaining_duration_only_enhanced">Kullanımınıza göre yaklaşık ^1 kaldı</string>
+  <string name="power_remaining_charging_duration_only">Tam doluma ^1 kaldı</string>
+  <string name="power_remaining_duration_only_short">^1 kaldı</string>
+  <string name="power_remaining_duration_only_short_enhanced">Kullanımınıza göre ^1 kaldı</string>
+  <string name="power_discharging_duration">^1 - yaklaşık ^2 kaldı</string>
+  <string name="power_discharging_duration_enhanced">^1 - kullanımınıza göre yaklaşık ^2 kaldı</string>
+  <string name="power_discharging_duration_short">^1 - ^2 kalan</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
@@ -568,4 +572,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_verbose_logging_summary">Wi-Fi günlük seviyesini artırın, her RSSI başına bir Wi-Fi Seçici göster</string>
   <string name="window_animation_scale_title">Animasyon Penceresinin Ölçeği</string>
   <string name="close">Kapat</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Video görüşmeleri yapmak için TTY Modunu kapatın.</string>
+  <string name="notification_channel_incoming_call">Gelen aramalar</string>
+  <string name="notification_channel_missed_call">Cevapsız aramalar</string>  
 </resources>
