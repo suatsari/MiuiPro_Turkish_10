@@ -1677,4 +1677,5 @@
   <string name="data_saver_description">Veri Tasarrufu, veri kullanımını azaltmaya yardımcı olmak için bazı uygulamaların arka planda veri göndermesini veya almasını engeller. Şu anda kullanmakta olduğunuz bir uygulama, verilere erişebilir, ancak bunu daha az sıklıkta yapabilir. Bu, örneğin, resimler siz onlara dokunana kadar gösterilmeyeceği anlamına gelebilir.</string>
   <string name="data_saver_enable_button">Aç</string>
   <string name="data_saver_enable_title">Veri Tasarrufu açılsın mı?</string>  
+  <string name="keyguard_left_mi_wallet">Mi Cüzdan</string>
 </resources>
