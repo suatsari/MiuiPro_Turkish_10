@@ -111,7 +111,7 @@
   <string name="phone_get_text">%1$s telefon numaranızı almasına izin ver (%2$s)?</string>
   <string name="phone_get_title">%1$s telefon numaranızı almasına izin ver</string>
   <string name="phone_verify_processing">Doğrulanıyor…</string>
-  <string name="phone_verify_text">%1$s  telefon numaranızı almaz. Sadece numaranın geçerli olduğundan emin olacak. Kabul?</string>
+  <string name="phone_verify_text">%1$s telefon numaranızı almaz. Sadece numaranın geçerli olduğundan emin olacak. Kabul?</string>
   <string name="phone_verify_title">%1$s ile telefon numaranızı doğrulamak için izin verin</string>
   <string name="privacy_revoke_failed_msg">Etkinleştirme, mesajların telefon numaranızı alabilmesi için yetkilendirme gerektirir.</string>
   <string name="privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, Mesajlaşma verilerinizi toplamayı durdurur ve tüm verilerinizi sunucularından siler. Mi Bulut, Mi Mesaj ve diğer Mesajlaşma özellikleriyle senkronizasyon artık kullanılamayacak. Yine de yetkilendirme iptal edilsin mi?</string>
