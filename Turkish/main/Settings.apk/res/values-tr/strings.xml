@@ -2762,8 +2762,6 @@
   <string name="navigation_guide_app_title">Uygulama tetikleme eylemi</string>
   <string name="navigation_guide_appswitch_summary">Ekranın kenarından sola veya sağa kaydırın ve bir süre basılı tutun</string>
   <string name="navigation_guide_appswitch_title">Önceki uygulamaya geç</string>
-  <string name="navigation_guide_back_anim_summary">Animasyon ile hareketi göster</string>
-  <string name="navigation_guide_back_anim_title">Geri hareket animasyonu</string>
   <string name="navigation_guide_back_summary">Ekrandan sola veya sağa kaydırın</string>
   <string name="navigation_guide_back_title">Son sayfaya dön</string>
   <string name="navigation_guide_dialog_dont_show_again">Tekrar gösterme</string>
@@ -5764,4 +5762,5 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Bildirim alanı kısayolu</string>
   <string name="total_info_no_vibrator">Alarm dışında sesler sessiz</string>
+  <string name="play_pause_description">Oynat Durdur Düğmesi</string>
 </resources>
