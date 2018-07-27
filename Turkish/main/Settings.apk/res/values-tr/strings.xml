@@ -5762,5 +5762,4 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Bildirim alanı kısayolu</string>
   <string name="total_info_no_vibrator">Alarm dışında sesler sessiz</string>
-  <string name="play_pause_description">Oynat Durdur Düğmesi</string>
 </resources>
