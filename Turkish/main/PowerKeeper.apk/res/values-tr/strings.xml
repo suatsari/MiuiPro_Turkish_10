@@ -84,5 +84,8 @@
   <string name="sleepmode_privacy_content">Bu özellik telefonunuzun sistem ve cihaz bilgilerini kullanacaktır. Sunucularımıza yüklenmeyecek.</string>
   <string name="sleepmode_privacy_link">Gizlilik ve güvenlik hakkında daha fazla bilgi edinin</string>
   <string name="sleepmode_privacy_title">Uyku modu</string>
-  <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>  
+  <string name="search_result_text">Herhangi bir uygulama bulunamadı</string> 
+  <string name="active_classify">Etkinlik durumuna göre sırala</string>
+  <string name="appconfig_active_app_dialog_title">Etkin uygulamaları yönet</string>
+  <string name="config_classify">Uygulama ayarlarına göre sırala</string>  
 </resources>

@@ -49,8 +49,8 @@
         <item quantity="one">%ddak içinde</item>
     </plurals>
     <plurals name="duration_hours_shortest_future">
-        <item quantity="other">%ds içinde</item>
-        <item quantity="one">%ds içinde</item>
+        <item quantity="other">%dsaat içinde</item>
+        <item quantity="one">%dsaat içinde</item>
     </plurals>
     <plurals name="duration_days_shortest_future">
         <item quantity="other">%dgün içinde</item>
