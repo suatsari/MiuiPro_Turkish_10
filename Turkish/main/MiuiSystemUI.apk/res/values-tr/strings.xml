@@ -615,7 +615,7 @@
   <string name="force_allow_on_external">Harici birimdeki uygulamalara izin vermeye zorla</string>
   <string name="force_allow_on_external_summary">Manifest değerlerinden bağımsız olarak uygulamaları harici depolamaya yazmak için uygun hale getirir</string>
   <string name="force_hw_ui">GPU oluşturmayı zorla</string>
-  <string name="force_hw_ui_summary">2D çizimde GPU kullanımını zorla</string>
+  <string name="force_hw_ui_summary">2B çizimde GPU kullanımını zorla</string>
   <string name="force_msaa">4x MSAA\'yı zorla</string>
   <string name="force_msaa_summary">OpenGL ES 2.0 uygulamalarda 4x MSAA\'yı etkinleştir</string>
   <string name="force_resizable_activities">Etkinlikleri yeniden boyutlandırılabilmeye zorla</string>
@@ -1666,7 +1666,7 @@
   <string name="structure_face_unlock_model_dialog_notenable">Hayır teşekkürler</string>
   <string name="structure_face_unlock_model_other">Diğer</string>
   <string name="structure_face_unlock_model_other_msg_2d">2B tanıma</string>
-  <string name="structure_face_unlock_model_other_msg_3d">3D tanıma</string>
+  <string name="structure_face_unlock_model_other_msg_3d">3B tanıma</string>
   <string name="structure_face_unlock_model_other_suggestion_2d">2B yüz tanıma, bir desen, PIN veya şifreden daha az güvenlidir. Bu özellik açık olduğunda, cihazınızın kilidi fotoğrafınızın yanı sıra sizin gibi görünen kişiler veya nesneler tarafından açılabilir.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">3B yüz tanıma nispeten güvenlidir. Bu özellik açıkken, cihazınızın fotoğrafınızla kilidinin açılması pek olası değildir. Ancak, sizin gibi görünen insanlar veya nesneler tarafından açılabilir.</string>
   <string name="structure_face_unlock_model_other_title">Yüz tanıma</string> 
