@@ -60,7 +60,7 @@
   <string name="month_day_format">dd MMM </string>
   <string name="move_failed">"Kesilemedi"</string>
   <string name="move_failed_retry">"Kesilemedi, %1$s bekleyin ve yeniden deneyin"</string>
-  <string name="need_get_accounts_permission">"Mi Drive'in normal çalışması için hesabınıza erişmesi gerekiyor."</string>
+  <string name="need_get_accounts_permission">Mi Drive\'ın normal çalışabilmasi için hesabınıza ve harici depolama biriminize erişmesi gerekiyor.</string>
   <string name="never_notify">"Yeniden gösterme"</string>
   <string name="no_app_found_to_open_file">Bu eylemi gerçekleştirecek uygulama bulunamadı</string>
   <string name="no_more_space">Yeterli boş alan yok.</string>
@@ -135,5 +135,6 @@
   <string name="drive_low_memory_description_title">Düşük bellek uyarısı</string>
   <string name="drive_low_memory_description_toast">Cep telefonu depolama alanı yetersiz, lütfen MiDrive\'ı kullandıktan sonra temizleyin</string>
   <string name="drive_low_memory_positive_content">Temizle</string>
-  <string name="source_file_missing">Dosya eksik.</string>  
+  <string name="source_file_missing">Dosya eksik.</string>
+  <string name="request_permission_msg">Mi Drive\'ın hesabınıza erişmesine izin verin.</string>  
 </resources>

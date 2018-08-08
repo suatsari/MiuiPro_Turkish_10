@@ -322,4 +322,5 @@
   <string name="vote_submit">Gönder</string>
   <string name="weekly_build">Haftalık</string>
   <string name="worst_update">Şu ana kadarki en kötü güncelleme</string>
+  <string name="menu_title_privacy">Gizlilik Politikası</string>
 </resources>
