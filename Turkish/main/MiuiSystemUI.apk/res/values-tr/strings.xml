@@ -1675,7 +1675,7 @@
   <string name="data_saver_description">Veri Tasarrufu, veri kullanımını azaltmaya yardımcı olmak için bazı uygulamaların arka planda veri göndermesini veya almasını engeller. Şu anda kullanmakta olduğunuz bir uygulama, verilere erişebilir, ancak bunu daha az sıklıkta yapabilir. Bu, örneğin, resimler siz onlara dokunana kadar gösterilmeyeceği anlamına gelebilir.</string>
   <string name="data_saver_enable_button">Aç</string>
   <string name="data_saver_enable_title">Veri Tasarrufu açılsın mı?</string>  
-  <string name="keyguard_left_mi_wallet">Mi Cüzdan</string>
+  <string name="keyguard_left_mi_wallet">Hesap makinesi</string>
   <string name="accessibility_quick_settings_alarm_on">Alarm açık.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihaz pili yüzde %d.</string> 
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">FamilyGuard açıkken alanlar arasında geçiş yapılamaz</string>
