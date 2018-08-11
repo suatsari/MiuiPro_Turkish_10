@@ -60,7 +60,7 @@
   <string name="month_day_format">dd MMM </string>
   <string name="move_failed">"Kesilemedi"</string>
   <string name="move_failed_retry">"Kesilemedi, %1$s bekleyin ve yeniden deneyin"</string>
-  <string name="need_get_accounts_permission">Mi Drive\'ın normal çalışabilmasi için hesabınıza ve harici depolama biriminize erişmesi gerekiyor.</string>
+  <string name="need_get_accounts_and_storage_permission">Mi Drive\'ın normal çalışabilmasi için hesabınıza ve harici depolama biriminize erişmesi gerekiyor.</string>
   <string name="never_notify">"Yeniden gösterme"</string>
   <string name="no_app_found_to_open_file">Bu eylemi gerçekleştirecek uygulama bulunamadı</string>
   <string name="no_more_space">Yeterli boş alan yok.</string>
