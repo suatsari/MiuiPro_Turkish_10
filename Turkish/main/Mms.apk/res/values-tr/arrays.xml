@@ -65,5 +65,10 @@
     <item>her zaman</item>
     <item>sessiz</item>
     <item>asla</item>
+  </string-array> 
+  <string-array name="recv_type">
+    <item>Al ve bildir</item>
+    <item>Sadece al</item>
+    <item>Reddet</item>
   </string-array>  
 </resources>
