@@ -323,4 +323,5 @@
   <string name="feedback_contact_info_hint">Telefon numarası/Eposta</string>
   <string name="privacy_policy_title">Gizlilik politikası</string>
   <string name="tab_title_preferences">Ayarlar</string>  
+  <string name="privacy_category_title">Gizlilik</string>
 </resources>
