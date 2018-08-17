@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="aritst_gender_filter_api">
-        <item>hepsi</item>
-        <item>erkek</item>
-        <item>kadın</item>
-        <item>grup</item>
-    </string-array>
-</resources>
