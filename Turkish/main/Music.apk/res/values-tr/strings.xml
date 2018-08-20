@@ -19,7 +19,7 @@
   <string name="action_item_modify_info">Bilgileri değiştir</string>
   <string name="action_item_multiple">Düzenle</string>
   <string name="action_item_play_all">Tümünü Oynat</string>
-  <string name="action_item_play_next">Sonra oynat</string>
+  <string name="action_item_play_next">Sonraki oynatma</string>
   <string name="action_item_remove">Kaldır</string>
   <string name="action_item_remove_from_favorite">Favoriden Kaldır</string>
   <string name="action_item_send">Gönder</string>
@@ -89,7 +89,7 @@
   <string name="audio_recognition_setting_title">Albüm kapakları ve şarkı sözlerini bulun</string>
   <string name="auth_activity_title">Xunlei Hesabı</string>
   <string name="auto_download_in_wifi">WLAN kullanarak sevdiğiniz şarkıları indirin</string>
-  <string name="auto_enter_nowplaying_setting_title">En yeni oynatıcıyı otomatik olarak göster</string>
+  <string name="auto_enter_nowplaying_setting_title">Oynatıcıyı ekranı kaplamış olarak göster</string>
   <string name="auto_payment">Otomatik yenile</string>
   <string name="auto_payment_date">Sonraki ödeme: %s</string>
   <string name="auto_restart_under_wifi">WLAN otomatik olarak bu dosyayı indirir</string>
