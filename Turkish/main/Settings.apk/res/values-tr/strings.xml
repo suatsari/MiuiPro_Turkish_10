@@ -5776,4 +5776,7 @@
   <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
   <string name="forget_password_dialog_title">Şifrenizi sıfırlayın</string> 
   <string name="enterprise_mode">Kurumsal mod</string>
+  <string name="delete_sound_effect">Sesi \"Sil\"</string>
+  <string name="keyguard_security_setting_others">Diğerleri</string>
+  <string name="keyguard_security_setting_privacy_policy">Gizlilik Politikası</string>  
 </resources>
