@@ -91,7 +91,7 @@
   <string name="gift_used">Gönderildi</string>
   <string name="home_apply_failured">"Ana Ekrana duvar kağıdı uygulanamıyor"</string>
   <string name="home_apply_success">Ana Ekran duvar kağıdı uygulandı</string>
-  <string name="incompatible_dialog_message">Bu tema tamamen MIUI 8 ile uyumlu değil. Bazı içerikler ekranda düzgün gözükmeyebilir.</string>
+  <string name="incompatible_dialog_message">Bu tema, cihazınızda yüklü olan MIUI sürümü ile uyumlu değildir. Bu temayı uygularsanız, MIUI\'nin bazı bölümleri düzgün çalışmayabilir.</string>
   <string name="incompatible_dialog_ok">Anladım</string>
   <string name="incompatible_dialog_title">Uyumluluk Problemleri</string>
   <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor…</string>
@@ -133,7 +133,7 @@
   <string name="provision_second_title">Varsayılan birkaç temadan birini seçin</string>
   <string name="provision_title">Bir tema seçin</string>
   <string name="purchased_list">Satın Alınan</string>
-  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_current">Optimize edilmiş temalar</string>
   <string name="purchased_list_format">%1$s satın alındı</string>
   <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="reload">Yeniden dene</string>
@@ -462,7 +462,7 @@
   <string name="card_no_network">Şebeke yok, lütfen bağlanın ve tekrar deneyin~</string>
   <string name="card_data_request_error">Veri isteği istisnası, lütfen daha sonra yeniden deneyin~</string>
   <string name="card_retry">Tekrar dene</string>
-  <string name="in_the_end">Daha fazla yok</string>
+  <string name="in_the_end">Gösterilecek başka öğe yok</string>
   <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_color_ring">Renk halkası</string>
   <string name="item_resource_audio_optional_phone_ring">Telefon zili</string>
@@ -486,7 +486,7 @@
   <string name="online_precust_cartoon">Karikatür</string>
   <string name="region_not_support">Üzgünüz, Temalar bölgenizde desteklenmiyor.</string>
   <string name="hide_free">"Ücretsiz %1$s gizle "</string>
-  <string name="hide_incompatible">"Uyumsuz %1$s gizle "</string>
+  <string name="hide_incompatible">"Uyumsuz %1$s gizle"</string>
   <string name="current_version_incompatible">Uyumsuzluk sürümü</string>   
   <string name="wallpaper_apply">Uygula</string>
   <string name="can_not_apply">Uygulanamıyor</string>
