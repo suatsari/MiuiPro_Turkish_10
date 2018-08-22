@@ -485,9 +485,9 @@
   <string name="online_precust_lifestyle">Yaşam tarzı</string>
   <string name="online_precust_cartoon">Karikatür</string>
   <string name="region_not_support">Üzgünüz, Temalar bölgenizde desteklenmiyor.</string>
-  <string name="hide_free">"Ücretsiz %1$s gizle "</string>
-  <string name="hide_incompatible">"Uyumsuz %1$s gizle"</string>
-  <string name="current_version_incompatible">Uyumsuzluk sürümü</string>   
+  <string name="hide_free">Ücretsiz %1$s gizle</string>
+  <string name="hide_incompatible">Uyumsuz %1$s gizle</string>
+  <string name="current_version_incompatible">Uyumlu değil</string>   
   <string name="wallpaper_apply">Uygula</string>
   <string name="can_not_apply">Uygulanamıyor</string>
   <string name="exo_controls_fastforward_description">Hızlı ileri</string>
