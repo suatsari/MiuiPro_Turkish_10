@@ -202,8 +202,8 @@
   <string name="dialog_file_missing_body">İndirilen dosya bulunamıyor.</string>
   <string name="dialog_file_missing_title">Dosya açılamadı</string>
   <string name="dialog_hint_music_error">Şarkı bulunamadı.</string>
-  <string name="dialog_insufficient_space_on_cache">İndirme işlemi bitmedi. Dahili indirme depolama biriminde yeterli alan yok.</string>
-  <string name="dialog_insufficient_space_on_external">İndirme işlemi bitmedi.Harici depolama biriminde yeterli alan yok.</string>
+  <string name="dialog_insufficient_space_on_cache">Dahili depolamada yeterli alan yok</string>
+  <string name="dialog_insufficient_space_on_external">Harici depolamada yeterli alan yok</string>
   <string name="dialog_media_not_found">İndirilemiyor. Dış ortam mevcut değildir.</string>
   <string name="dialog_not_show_again">Tekrar gösterme</string>
   <string name="dialog_queued_body">Bu dosya, gelecekte indirilmek için kuyruğa eklendi.</string>
@@ -948,7 +948,7 @@
   <string name="title_online_billboard">Popüler</string>
   <string name="title_online_fm">Radyo</string>
   <string name="title_online_fm_recommend">FM Özelliği</string>
-  <string name="title_online_recommend">Önerilen Liste</string>
+  <string name="title_online_recommend">Çalma listeleri</string>
   <string name="title_online_release">Yeni Albümler</string>
   <string name="title_online_song">Popüler şarkılar</string>
   <string name="title_online_special">Tüm sorunlar</string>
@@ -1041,4 +1041,18 @@
   <string name="xiaoai_install_title">Mi AI sesli yardımcısını yükle</string>
   <string name="xiaoai_update_message">Mi AI ses motoru çok eski gibi görünüyor. Şimdi güncelleyebilirsiniz.</string>
   <string name="xiaoai_update_title">Mi AI güncellemesi</string>
+  <string name="artist_video">Videolar</string>
+  <string name="default_songtab_name">Oynatma listesi Oynatma listesi kategorileri</string>
+  <string name="download_start_apk_black_shark">İndirmeye başladı... Dosyalar\'daki ilerlemeyi görüntüle.</string>
+  <string name="downloading_apk_black_shark">İndiriliyor... Dosyalar\'daki ilerlemeyi görüntüle.</string>
+  <string name="guide_playlist_content">Kategorize edilmiş oynatma listelerine göz atın</string>
+  <string name="guide_video_tab_content1">Videoları buradan izleyin</string>
+  <string name="guide_video_tab_content2">Kaliteli içeriklerin keyfini çıkarın</string>
+  <string name="guide_video_tab_content3">Sütunlar \"Öne Çıkanlar\" öğesine taşındı</string>
+  <string name="personal_radio_dislike">Benzer şarkıları azaltın</string>
+  <string name="personal_radio_favorite">Beğenilenler, benzer şarkı önerileri</string>
+  <string name="privacy_category">Gizlilik detayları</string>
+  <string name="privacy_preference">Privacy policy</string>
+  <string name="tab_video_list">Videolar</string>
+  <string name="title_online_recommend_type">Bir kategori seçiniz</string>  
 </resources>
