@@ -1042,7 +1042,7 @@
   <string name="xiaoai_update_message">Mi AI ses motoru çok eski gibi görünüyor. Şimdi güncelleyebilirsiniz.</string>
   <string name="xiaoai_update_title">Mi AI güncellemesi</string>
   <string name="artist_video">Videolar</string>
-  <string name="default_songtab_name">Oynatma listesi Oynatma listesi kategorileri</string>
+  <string name="default_songtab_name">Oynatma listesi kategorileri</string>
   <string name="download_start_apk_black_shark">İndirmeye başladı... Dosyalar\'daki ilerlemeyi görüntüle.</string>
   <string name="downloading_apk_black_shark">İndiriliyor... Dosyalar\'daki ilerlemeyi görüntüle.</string>
   <string name="guide_playlist_content">Kategorize edilmiş oynatma listelerine göz atın</string>
@@ -1052,7 +1052,7 @@
   <string name="personal_radio_dislike">Benzer şarkıları azaltın</string>
   <string name="personal_radio_favorite">Beğenilenler, benzer şarkı önerileri</string>
   <string name="privacy_category">Gizlilik detayları</string>
-  <string name="privacy_preference">Privacy policy</string>
+  <string name="privacy_preference">Gizlilik politikası</string>
   <string name="tab_video_list">Videolar</string>
   <string name="title_online_recommend_type">Bir kategori seçiniz</string>  
 </resources>
