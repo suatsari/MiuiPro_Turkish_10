@@ -4679,7 +4679,7 @@
   <string name="turn_on_keyguard_password_alert_foget_ok">Anladım</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Anladım(%d)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">Kilit ekran şifrenizi unutmayın.Unutursanız,cihazınızdaki fotoğraflar ve kişiler de dahil olmak üzere tüm verileri silmeniz ve daha sonra yeni bir tane ayarlamanız gerekir.</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">Eğer bunu unutursanız,bunu geri yüklemek mümkün olmayacak.</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Şifrenizi hatırlayın</string>
   <string name="turn_on_security_lock">Ekran kilidini seç</string>
   <string name="turn_on_torch">Feneri aç</string>
   <string name="turn_update_keyguard_password_wait_dialog">Şifreyi Değiştir</string>
@@ -5776,7 +5776,7 @@
   <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
   <string name="forget_password_dialog_title">Şifrenizi sıfırlayın</string> 
   <string name="enterprise_mode">Kurumsal mod</string>
-  <string name="delete_sound_effect">Sesi \"Sil\"</string>
+  <string name="delete_sound_effect">\"Silme\" sesi</string>
   <string name="keyguard_security_setting_others">Diğerleri</string>
   <string name="keyguard_security_setting_privacy_policy">Gizlilik Politikası</string>  
   <string name="sccret_code_error">Girdiğiniz kod yanlış.</string>
@@ -5786,4 +5786,9 @@
   <string name="upload_audio_log">Ses günlüğü almaya başla</string>
   <string name="upload_gps_log">GPS günlüğü almaya başla</string>
   <string name="upload_modem_log">Modem günlüğünü almaya başla</string>  
+  <string name="failed_to_erase_text">Lütfen 1217 işlemini yapmadan önce kilit ekranı şifresini kapatın.</string>
+  <string name="failed_to_erase_title">Yasak işlem</string>
+  <string name="navigation_guide_appswitch_anim_summary">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca hızlıca kaydırın</string>
+  <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geç</string>
+  <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string>  
 </resources>
