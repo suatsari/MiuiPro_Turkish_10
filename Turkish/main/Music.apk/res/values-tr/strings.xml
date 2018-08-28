@@ -370,14 +370,14 @@
   <string name="filter_by_duration_max">%d dak</string>
   <string name="filter_by_duration_min">%d san</string>
   <string name="filter_by_duration_prefix">"Daha kısa dosyaları gizle "</string>
-  <string name="filter_by_duration_summary">Kısa ses dosyaları gösterilmez</string>
+  <string name="filter_by_duration_summary">Kısa ses dosyalarını gizle</string>
   <string name="filter_by_folder">Klasöre göre</string>
   <string name="filter_by_folder_summary">Gösterilecek klasörü seçin</string>
   <string name="filter_by_size">Boyuta göre</string>
   <string name="filter_by_size_max">%dMB</string>
   <string name="filter_by_size_min">%dKB</string>
-  <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
-  <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
+  <string name="filter_by_size_prefix">"Küçük dosyaları gizle "</string>
+  <string name="filter_by_size_summary">Küçük ses dosyalarını gizle</string>
   <string name="find_music">Yeni şarkılar keşfet</string>
   <string name="follow">Takip et</string>
   <string name="followed">Takipte:</string>
@@ -1026,7 +1026,7 @@
   <string name="vip_renew_title">Abonelik sona erdi</string>
   <string name="vip_required">Ayrıcalıklı Şarkı Paketindeki bu şarkı çalmak için sizin olsun. Şimdi şarkı atıldı.</string>
   <string name="vip_required_with_song">Ayrıcalıklı Şarkı Paketindeki “%s” sizin olsun. Şimdi bu şarkı atlandı..</string>
-  <string name="vip_tip">Yüksek kaliteli ses akışı için Mi Müzik\'e abone olun</string>
+  <string name="vip_tip">Kaliteli ses için Mi Müzik\'e abone ol</string>
   <string name="vip_tomorrow_auto_renew_message">Müzik aboneliğiniz yarın akşam otomatik olarak yenilenecektir. Bu ödemeyi tamamlamak için hesabınızda yeterli miktarda Mi Kredisi bulunduğundan emin olun.</string>
   <string name="vip_tomorrow_renew_message">Yüksek kaliteli ses akışı sağlayamayacaksınız, ancak bazı şarkılar normal kalitede sunulacak.</string>
   <string name="voice_ass">Sesli yardımcısı</string>
