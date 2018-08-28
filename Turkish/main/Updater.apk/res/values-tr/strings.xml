@@ -152,7 +152,7 @@
   <string name="my_worst_update">En kötü güncellemem</string>
   <string name="next">Sonraki</string>
   <string name="no_log">Özet bulunamadı</string>
-  <string name="no_wifi_msg">Mobil veriyi kullanmak ek veri ücretlerinin ödenmesine neden olabilir. Güncellemeleri indirmek için Wi-Fi\'ye bağlanın.</string>
+  <string name="no_wifi_msg">Şimdi mobil ağ kullanıyorsunuz. Güncellemeleri indirmek ek veri ücretleri oluşturabilir. Güncellemeleri şimdi indirebilir veya cihazınızın WLAN\'a bağlanmasını bekleyebilirsiniz.</string>
   <string name="no_wifi_title">Wi-Fi ağına bağlan</string>
   <string name="not_open">Hayır</string>
   <string name="notification_auto_reboot_seccess_title">Cihaz otomatik olarak güncellendi</string>
@@ -323,4 +323,7 @@
   <string name="weekly_build">Haftalık</string>
   <string name="worst_update">Şu ana kadarki en kötü güncelleme</string>
   <string name="menu_title_privacy">Gizlilik Politikası</string>
+  <string name="no_wifi_no_auto_msg">Şimdi mobil ağ kullanıyorsunuz. Güncellemeleri indirmek ek veri ücretleri oluşturabilir. Güncellemeleri şimdi indirebilir veya cihazınızın WLAN\'a bağlanıp güncellemeleri otomatik olarak yüklemesini bekleyebilirsiniz.</string>
+  <string name="later_download">Daha sonra indir</string>
+  <string name="open_auto_download">Otomatik olarak indir</string>  
 </resources>
