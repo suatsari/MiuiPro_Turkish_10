@@ -5798,4 +5798,11 @@
   <string name="close_fod_aod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. \"Her zaman açık modu\" ile mevcut olmayacaktır. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
   <string name="to_close">Kapat</string> 
   <string name="title_jeejen">Jeejen Ana ekranı</string>
+  <string name="status_bar_settings_customer_feedback">geribildirim</string>
+  <string name="status_bar_settings_function_description">Bu özellik hakkında</string>
+  <string name="status_bar_settings_user_fold_description1">Bildirimler klasörü MIUI 9\'da tanıtıldı. Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından bunların önemli olup olmadığını belirlemek için birden fazla ölçüt kullanacaktır.</string>
+  <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirdiğinizden emin olun. Geri bildiriminiz için teşekkür ederiz.</string>
+  <string name="status_bar_settings_user_fold_disable">Kapalı</string>
+  <string name="status_bar_settings_user_fold_enable">Açık</string>  
 </resources>

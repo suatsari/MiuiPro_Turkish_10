@@ -1696,5 +1696,6 @@
   <string name="quick_settings_extreme_batterysaver_label">Aşırı pil tasarrufu</string> 
   <string name="keyguard_charging_back_to_lockscreen">Kilit ekranına geri dön</string>
   <string name="keyguard_left_torch">Fener</string>
-  <string name="switch_system_user">İlk alanı aç</string>  
+  <string name="switch_system_user">İlk alanı aç</string>
+  <string name="miui_screen_rotation_freeze_message">Otomatik döndürme devre dışı.</string>
 </resources>
