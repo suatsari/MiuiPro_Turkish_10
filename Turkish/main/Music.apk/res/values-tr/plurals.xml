@@ -170,4 +170,14 @@
     <item quantity="other">%1$d güncellemeler sizin için burada:</item>
     <item quantity="one">%1$d güncelleme sizin için burada:</item>
   </plurals>
+  <plurals name="Ndialog_renew_content">
+    <item quantity="other">"Aboneliğiniz %d gün içinde sona eriyor.
+Yenilemek için yardım ister misiniz?"</item>
+    <item quantity="one">"Aboneliğiniz %d gün içinde sona eriyor.
+Yenilemek için yardım ister misiniz?"</item>
+  </plurals>
+  <plurals name="Nhungama_free_download_summary">
+    <item quantity="other">%1$d ücretsiz şarkı indirebilirsin. %2$s şimdi indirilsin mi?</item>
+    <item quantity="one">%1$d ücretsiz şarkı indirebilirsin. %2$s şimdi indirilsin mi?</item>
+  </plurals>  
 </resources>
