@@ -869,8 +869,8 @@
   <string name="hints_scan_result_no_finish">Tarama tamamlanmadı. Baştan başlamak için dokunun.</string>
   <string name="hints_scan_result_phone_safe">Herşey güzel gözüküyor</string>
   <string name="hints_scan_result_safe">Güvenli</string>
-  <string name="hints_scanning">Taranıyor</string>
-  <string name="hints_scanning_text">Taranıyor...</string>
+  <string name="hints_scanning">Taranıyor…</string>
+  <string name="hints_scanning_text">Taranıyor…</string>
   <string name="hints_virus_apk_list_item_summary">APK</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">Uygulama</string>
@@ -1588,7 +1588,7 @@
   <string name="protocol_exception_title">Ağ Protokol Teşhisi</string>
   <string name="protocol_loop_back_exception_summary">Yerel döngünün geri testi başarısız oldu. MIUI\'ye sorunu bildirmek için, Hata Raporla uygulamasına gidin ve cihazınızdan bir günlük gönderin.</string>
   <string name="qq_lucky_warning">QQ红包</string>
-  <string name="quick_optimize_checking">Taranıyor</string>
+  <string name="quick_optimize_checking">Taranıyor </string>
   <string name="quick_optimize_no_fix_issue_subtitle">Pil ömrü arttırılamadı</string>
   <string name="quick_optimize_no_fix_issue_title">Pil problemi düzeltilemedi</string>
   <string name="quick_optimize_no_issue">Pil problemi bulunamadı</string>
@@ -2454,7 +2454,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="see_more_content">Daha fazla öne çıkanları görmek için Oyunları Güncelle</string>
   <string name="auto_task_result_summary_text">Pil tasarrufu için otomatik görevleri ayarla</string>
   <string name="extreme_power_save_mode_card_summary">Pil azaldığında gücü korumak için Aşırı modunu açın.</string>
-  <string name="handle_title_abnormal">Pil tüketimi</string>
+  <string name="handle_title_abnormal">Pil boşaltımı</string>
   <string name="handle_title_app">Uygulamalar</string>
   <string name="handle_title_details">Pil kullanım detayları</string>
   <string name="handle_title_system">Sistem pil kullanımı</string>
@@ -2471,7 +2471,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="power_center_list_item_set_lockscreen_time">30 saniye boyunca işlem yapılmadığında uyku moduna geç</string>
   <string name="power_center_scan_item_title_GPS">GPS doğruluğunu ayarla</string>
   <string name="power_center_scan_item_title_abnormal">Pil sorunları</string>
-  <string name="power_center_scan_item_title_abnormal_apps">Anormal güç tüketen uygulama</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Pili boşaltan uygulamalar</string>
   <string name="power_center_scan_item_title_auto_invoke">Zincir başlangıcı</string>
   <string name="power_center_scan_item_title_auto_start">Otomatik başlatma</string>
   <string name="power_center_scan_item_title_battery_details">Pil kullanım detayları</string>
@@ -2482,5 +2482,9 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="power_center_scan_item_title_running_app">Arka planda çalışan uygulamalar</string>
   <string name="power_center_scan_result_safe">Pil sorunu bulunmadı</string>
   <string name="power_center_stop_scan_title">Taramayı durdur</string>
-  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir."</string>  
+  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir."</string>
+  <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisini etkinleştir?</string>
+  <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek, kişisel verilerinizin açığa çıkmasına neden olabilir.
+Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanabilir."</string>
+  <string name="device_manager_apply_step_3">Devam etmeden önce olası tüm riskleri anladığınızdan emin olun. Bu uygulama için cihaz yöneticisi şimdi etkinleştirilsin mi?</string>  
 </resources>
