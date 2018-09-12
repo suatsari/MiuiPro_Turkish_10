@@ -5786,8 +5786,8 @@
   <string name="upload_audio_log">Ses günlüğü almaya başla</string>
   <string name="upload_gps_log">GPS günlüğü almaya başla</string>
   <string name="upload_modem_log">Modem günlüğünü almaya başla</string>  
-  <string name="failed_to_erase_text">Lütfen 1217 işlemini yapmadan önce kilit ekranı şifresini kapatın.</string>
-  <string name="failed_to_erase_title">Yasak işlem</string>
+  <string name="failed_to_erase_text">\"1217\" kodunu girmeden önce Kilit ekranı şifrenizi kapatın.</string>
+  <string name="failed_to_erase_title">Bu işlem tamamlanamıyor</string>
   <string name="navigation_guide_appswitch_anim_summary">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca hızlıca kaydırın</string>
   <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geri dön</string>
   <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string> 
@@ -5809,4 +5809,7 @@
   <string name="aod_got_it">Anladım</string>
   <string name="aod_to_close">Kapat</string>
   <string name="following_us_title">Bizi takip edin</string>
+  <string name="bootloader_device_bind_no_data_network">WLAN\'ı kapatın ve mobil veri kullanarak hesabınızı ve cihazınızı ekleyin.</string>
+  <string name="bootloader_device_bind_server_token_expired_1">Doğrulanamadı. Hesabınızı ve cihazınızı tekrar eklemeyi deneyin.</string>
+  <string name="bootloader_device_bind_server_token_expired_2">Doğrulanamadı. Hesabınıza tekrar giriş yapın ve baştan başlayın.</string>  
 </resources>
