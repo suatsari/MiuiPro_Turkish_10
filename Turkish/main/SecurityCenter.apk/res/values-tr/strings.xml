@@ -2482,7 +2482,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="power_center_scan_item_title_running_app">Arka planda çalışan uygulamalar</string>
   <string name="power_center_scan_result_safe">Pil sorunu bulunmadı</string>
   <string name="power_center_stop_scan_title">Taramayı durdur</string>
-  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir."</string>
+  <string name="power_save_started_summary_text">Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir.</string>
   <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisini etkinleştir?</string>
   <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek, kişisel verilerinizin açığa çıkmasına neden olabilir.
 Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanabilir."</string>
