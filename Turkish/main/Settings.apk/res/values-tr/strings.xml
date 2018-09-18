@@ -3671,8 +3671,8 @@
   <string name="screen_usage_summary">Tam şarjdan sonra ekranın açık olduğu süre</string>
   <string name="screen_zoom_conversation_icon_alex">O</string>
   <string name="screen_zoom_conversation_icon_pete">A</string>
-  <string name="screen_zoom_conversation_message_1">Merhaba Orhan!</string>
-  <string name="screen_zoom_conversation_message_2">Güzel bir kahe içip, bugüne başlamak ister misin?</string>
+  <string name="screen_zoom_conversation_message_1">Merhaba Merve!</string>
+  <string name="screen_zoom_conversation_message_2">Güzel bir kahve içip, güne başlamak ister misin?</string>
   <string name="screen_zoom_conversation_message_3">Kulağa hoş geliyor. Buradan çokta uzak olmayan iyi bir yer biliyorum.</string>
   <string name="screen_zoom_conversation_message_4">Harika!</string>
   <string name="screen_zoom_conversation_timestamp_1">Salı 6:00ÖS</string>
@@ -3682,7 +3682,7 @@
   <string name="screen_zoom_keywords">ekran yoğunluğu, ekran yakınlaştırma, ölçek, ölçekleme</string>
   <string name="screen_zoom_make_larger_desc">Büyük olsun</string>
   <string name="screen_zoom_make_smaller_desc">Küçük olsun</string>
-  <string name="screen_zoom_preview_title">Önizle</string>
+  <string name="screen_zoom_preview_title">Önizleme</string>
   <string name="screen_zoom_short_summary">Ekrandaki öğeleri daha büyük veya daha küçük yapın</string>
   <string name="screen_zoom_summary">Ekranınızdaki öğeleri daha küçük veya daha büyük yapın. Ekranınızdaki bazı uygulamalar konumunu değiştirebilir.</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
