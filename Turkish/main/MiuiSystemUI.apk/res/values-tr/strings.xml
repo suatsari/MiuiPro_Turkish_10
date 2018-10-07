@@ -849,8 +849,8 @@
   <string name="kg_prompt_reason_timeout_pin">Ek güvenlik için PIN gerekir</string>
   <string name="kg_prompt_reason_user_request">Cihaz manuel olarak kilitlendi</string>
   <string name="kg_puk_enter_pin_hint">Yeni PIN kodunu giriniz</string>
-  <string name="kg_puk_enter_puk_hint">SIM şimdi devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüz ile iletişim kurun.</string>
-  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" şu anda devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüz iletişim kurun.</string>
+  <string name="kg_puk_enter_puk_hint">SIM şuan devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüz ile iletişim kurun.</string>
+  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" şuan devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüz ile iletişim kurun.</string>
   <string name="kg_sim_pin_instructions">SIM PIN\’i girin</string>
   <string name="kg_sim_pin_instructions_multi">\"%1$s\" için SIM PIN\’i girin</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM kartın kilidi açılıyor…</string>
