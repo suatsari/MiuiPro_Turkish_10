@@ -1703,5 +1703,8 @@
   <string name="lock_screen_carrier_airplane_mode_on">Uçak modu</string>
   <string name="lock_screen_no_sim_card_emergency_only">Sadece acil arama</string>
   <string name="lock_screen_no_sim_card_no_service">Servis yok</string>
-  <string name="torch_high_temperature_warning">Cihazınız aşırı ısınmış. Şimdi fener kullanamazsınız.</string>  
+  <string name="torch_high_temperature_warning">Cihazınız aşırı ısınmış. Şimdi fener kullanamazsınız.</string> 
+  <string name="notch_sos_status_bar_title">SOS</string>
+  <string name="sos_status_bar_summary">çıkmak için tıklayın</string>
+  <string name="sos_status_bar_title">SOS</string>  
 </resources>
