@@ -5895,5 +5895,6 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="dangerous_option_hint_title">Yüksek riskli özellik etkin</string>
   <string name="camera_front">Ön %s</string>
   <string name="camera_rear">Arka %s</string>
-  <string name="device_camera">Kamera</string>  
+  <string name="device_camera">Kamera</string> 
+  <string name="status_bar_settings_peek_notification_icon">Gelen bildirimler için simgeleri göster</string>
 </resources>
