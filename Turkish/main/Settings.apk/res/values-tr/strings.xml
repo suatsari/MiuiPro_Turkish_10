@@ -4304,6 +4304,7 @@
   <string name="status_bar_settings_custom_carrier">Operatör adını düzenle</string>
   <string name="status_bar_settings_custom_wifi_name">WLAN adını düzenle</string>
   <string name="status_bar_settings_enable_notification">Bildirimleri göster</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Kilit ekranında göster</string>  
   <string name="status_bar_settings_long_click_sort">Bir geçiş ayarlamak için basılı tutun</string>
   <string name="status_bar_settings_manage_notification">Uygulama Bildirimleri</string>
   <string name="status_bar_settings_no_carrier">Yok</string>
