@@ -3286,8 +3286,8 @@
   <string name="privacy_authorize_revoke_time">Geri al (%1$ds)</string>
   <string name="privacy_authorize_revoke_title">Yetkilendirme ve iptal</string>
   <string name="privacy_authorize_revoking">Yetkilendirme iptal ediliyor…</string>
-  <string name="privacy_authorize_success">İzin verilen yetki başarıyla verildi</string>
-  <string name="privacy_authorize_title">Yetki ver</string>
+  <string name="privacy_authorize_success">Yetki başarıyla verildi</string>
+  <string name="privacy_authorize_title">Verilen yetkilendirme</string>
   <string name="privacy_close_dlg_button_ok">Kapat</string>
   <string name="privacy_close_dlg_msg">Gizlilik şifresi kapalı olduğunda, öğeleriniz artık korunmaz.</string>
   <string name="privacy_close_dlg_title">Dikkat</string>
@@ -5956,5 +5956,6 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="switch_access_service_on">Erişim Anahtarı</string>
   <string name="words_title">Metin</string>
   <string name="bootloader_tips">Mi Hesabınızı ekledikten sonra, oturumu kapatma, fabrika ayarlarına sıfırlama veya sistem uygulamalarının verilerini silme. Yukarıdakilerden herhangi birini yaparsanız, hesabınızı tekrar ekleyemez veya cihazınızın kilidini açamazsınız.</string>
-  <string name="bootloader_tips_ok">Anladım</string>  
+  <string name="bootloader_tips_ok">Anladım</string>
+  <string name="keyguard_notification_status_title">Bildirimler</string>  
 </resources>
