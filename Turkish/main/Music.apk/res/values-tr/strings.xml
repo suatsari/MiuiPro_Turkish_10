@@ -117,7 +117,7 @@
   <string name="auto_upgrade">Otomatik Güncelle</string>
   <string name="avail_services">Mevcut</string>
   <string name="available_playlist_name_format">Yeni çalma listesi %d</string>
-  <string name="back_confirm">Uygulamayı arkaplana itmek için dokunun</string>
+  <string name="back_confirm">Uygulamayı arkaplana itmek için tekrar dokunun</string>
   <string name="backup_complete">Tüm şarkılar Mi Bulut\'a yedeklendi</string>
   <string name="backup_empty_button">Seçili şarkı yok</string>
   <string name="backup_immediate">Yedekle</string>
