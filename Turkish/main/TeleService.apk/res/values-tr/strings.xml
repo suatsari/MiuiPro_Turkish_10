@@ -1583,4 +1583,6 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="dds_switch_warning_message_data_off">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Mobil veri şu anda kapalı.</string>
   <string name="dds_switch_warning_message_data_on">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Gereksiz operatör ücretlerinden kaçınmak için mobil veri kapatıldı.</string> 
   <string name="privacy_policy_title">Gizlilik Politikası</string>
+  <string name="sip_account_disable">Hesap aktif değil. Çağrı kabul edilemez.</string>
+  <string name="sip_receive_call_disable">Çağrı kabul edilemez. Önce çağrıları kabul etmeye izin verin.</string>
 </resources>
