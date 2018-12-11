@@ -9,5 +9,5 @@
   <string name="error_unauthorized">Senkronizasyon, çok fazla giriş denemesi nedeniyle devre dışı bırakıldı.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="micloud_send_message_desc">Mi Mesajı gönderiliyor</string>
-  <string name="micloud_downloading_clipboard_message_from_web">Metni panoya gönder</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Pano: Bilgisayarınızdan bir mesaj alındı</string>
 </resources>
