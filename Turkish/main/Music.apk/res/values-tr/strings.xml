@@ -1120,4 +1120,7 @@
   <string name="xiaoai_install_title">Mi AI sesli yardımcısını yükle</string>
   <string name="xiaoai_update_message">Mi AI ses motoru çok eski gibi görünüyor. Şimdi güncelleyebilirsiniz.</string>
   <string name="xiaoai_update_title">Mi AI güncellemesi</string>
+  <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
+  <string name="gcm_fallback_notification_channel_label">Çeşitli</string>
+  <string name="ready_to_play">Sonraki</string>  
 </resources>
