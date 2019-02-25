@@ -22,7 +22,7 @@
   <string name="app_name">MiMoji</string>
   <string name="AR_IMG_SHARE">Mimoji</string>
   <string name="BLOG_APP_NO_INSTALL">Uygulama yüklü değil</string>
-  <string name="cta_message">Ağ, kayıt ve kamera erişimine izin verilsin mi?</string>
+  <string name="cta_message"><a href="http://www.miui.com/res/doc/privacy/en.html">《Gizlilik Politikası》</a>\'nı kabul etmeniz, ağ, kayıt ve kamera erişimine izin vermeniz gerekiyor. İzin ver?</string>
   <string name="cta_privacy_url">http://www.miui.com/res/doc/privacy/en.html</string>
   <string name="error_tip_out_range">Cihazı yüzün önünde tutun.</string>
   <string name="error_tip_sleep">Devam etmek için basın</string>
@@ -46,6 +46,7 @@
   <string name="text_10">Paylaş</string>
   <string name="text_11">Daha</string>
   <string name="text_12">İptal</string>
+  <string name="text_13">Kameraya erişime izin verilsin mi?</string>
   <string name="webo_version_too_low">Uygulamayı güncellemeniz gerekiyor</string>
   <string name="WICHART_APP_NO_INSTALL">Uygulama yüklü değil</string>
 </resources>
