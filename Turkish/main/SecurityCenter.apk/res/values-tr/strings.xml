@@ -794,7 +794,7 @@
   <string name="game_more_improve">Oyun oynarken pil ve bant genişliğini azaltmak için arka plan etkinliklerini ve indirme hızını kısıtlayın</string>
   <string name="game_setting">Oyun ayarları</string>
   <string name="gamebooster_lowbattery_notification_summary">Cihazınızı kapatmadan önce şarj edin.</string>
-  <string name="gamebooster_lowbattery_notification_title">Pil yüzde 5\'ten düşük</string>
+  <string name="gamebooster_lowbattery_notification_title">Pil 5%%\'ten düşük</string>
   <string name="gamebooster_main_activity_back">Geri</string>
   <string name="gamebooster_network_dialog_message">Güvenlik\'in Oyun hız yükselticisinin tüm özelliklerini kullanabilmesi için ağa bağlanmasına izin verilsin mi?</string>
   <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılamıyor</string>
@@ -803,6 +803,8 @@
   <string name="gamebox_type_float">Sabit kısayol</string>
   <string name="gamebox_type_gesture">Göstermek için kaydır</string>
   <string name="gamebox_wechat_not_find">WeChat yükleyin ve tekrar deneyin.</string>
+  <string name="gamecenter_install_fail">Yüklenemedi</string>
+  <string name="gamecenter_install_sucessfull">Başarıyla yüklendi</string>  
   <string name="gateway_exception_summary">Yönlendiricinizi kontrol edin ve tekrar deneyin.</string>
   <string name="gateway_exception_summary2">Sunucuya bağlanamıyor</string>
   <string name="gateway_exception_title">Yönlendirici Testi</string>
@@ -1469,7 +1471,7 @@
   <string name="power_optimize_save_mode_not_opened">Pil Tasarrufu kapalı</string>
   <string name="power_optimize_save_on_lockscreen">Telefon kilitlendiğinde gücü koru</string>
   <string name="power_phone">Sesli Çağrılar</string>
-  <string name="power_save_mode_auto_exit_summary">\"Pil yüzde 60 veya tam şarj olduğunda kapatın\"</string>
+  <string name="power_save_mode_auto_exit_summary">Pil 60% veya tam şarj olduğunda kapatın</string>
   <string name="power_save_mode_auto_exit_title">Şarj olduğunda kapat</string>
   <string name="power_save_mode_close_warn_text">Pil tasarrufu, arkaplan faaliyetlerini ve eşitlemeyi kısıtlar. Cihazınız şarj olurken kullanmayı seçerseniz, bazı özellikler düzgün çalışmayabilir. Cihazınız şarj olurken pil tasarrufu açık tutulsun mu?</string>
   <string name="power_save_mode_close_warn_title">Pil Tasarrufu</string>
@@ -1856,7 +1858,7 @@
   <string name="st_confirm_dialog_summary_oversea_call">Yabancı telefon numaralarından gelen tüm aramaları engellemek için açın.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Dikkat! Yabancılardan gelen tüm çağrılar engellenecek.</string>
   <string name="st_filter_keywords_setting_summary1">Bu listede bulunan kelimeleri içeren bilinmeyen numaralardan gelen mesajlar engellenecektir.</string>
-  <string name="st_filter_keywords_setting_summary2">\n(Birden çok anahtar kelimeyi ayırmak için virgül kullanın)</string>
+  <string name="st_filter_keywords_setting_summary2">(Birden çok anahtar kelimeyi ayırmak için virgül kullanın)</string>
   <string name="st_filter_keywords_setting_summary3">Bu listedeki sözcükleri içeren bilinmeyen numaralardan gelen iletilere izin verilecek.</string>
   <string name="st_group_list_management">Liste Yönetimi</string>
   <string name="st_hint_add_head_number">Önek girin</string>
