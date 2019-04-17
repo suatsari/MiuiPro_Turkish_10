@@ -31,7 +31,6 @@
   <string name="alert_dialog_yes">Evet</string>
   <string name="antispam_local_marked">Yerel işaretli</string>
   <string name="antispam_marked_count">%1$d MIUI kullanıcısı tarafından bildirildi</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
   <string name="areacode_set_default">Varsayılan olarak ayarla</string>
@@ -669,9 +668,9 @@ Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka 
   <string name="onscreen_audio_mode">Cevapla</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Konferans</string>
-  <string name="onscreen_audio_mode_handset">Hoparlör</string>
+  <string name="onscreen_audio_mode_handset">Ahize</string>
   <string name="onscreen_audio_mode_headset">Kulaklık</string>
-  <string name="onscreen_audio_mode_speaker">Ahize</string>
+  <string name="onscreen_audio_mode_speaker">Hoparlör</string>
   <string name="onscreen_audio_switch_mode">Sesi Değiştir</string>
   <string name="onscreen_call_record">Kaydet</string>
   <string name="onscreen_change_to_video">Görüntülü Arama</string>
