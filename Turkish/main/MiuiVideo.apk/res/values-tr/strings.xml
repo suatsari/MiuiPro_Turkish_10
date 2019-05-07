@@ -238,14 +238,20 @@
   <string name="myincome">Gelirim</string>
   <string name="no_comment">İlk cevap veren siz olun</string>
   <string name="no_network_tips">Bu işlev, İnternete bağlanmak için yetkilendirilmediğinden geçici olarak kullanılamıyor.</string>
-  <string name="notification_desc_offline">Tamamlanan indirmeleri bildir</string>
-  <string name="notification_name_apklaunch">Diğer uygulamaları başlatma hakkında bildirim.</string>
+  <string name="notification_click_refresh">Yenilemek için dokunun</string>
+  <string name="notification_video">Ücretsiz gösteriler</string>
+  <string name="notification_get_weather_info_failed">Hava durumu bilgisi alınamadı</string>
+  <string name="notification_desc_offline">Tamamlanan indirmelerden haberdar olun</string>
+  <string name="notification_name_apklaunch">Diğer uygulamaları başlatma hakkında bildirim</string>
   <string name="notification_name_appupdate">Güncelleme bildirimleri</string>
   <string name="notification_name_common">Düzenli bildirimler</string>
   <string name="notification_name_message_push">Push bildirimleri</string>
   <string name="notification_name_offline">İndirme bildirimleri</string>
   <string name="notification_ticker_text">Çevrimdışı Video indirmesi tamamlandı</string>
   <string name="notification_title">\"%1$s\" indirme tamamlandı</string>
+  <string name="notification_offline_to_online_setting">Bildirim alanı</string>
+  <string name="notification_offline_to_online_summary">Hava durumu bilgilerini görüntüleyin ve Mi Video kısayollarını kullanın</string>
+  <string name="notification_offline_to_online_title">Bildirim alanı kısayollarını göster</string>  
   <string name="nowifi_alert_dialog_continue">Tamam</string>
   <string name="nowifi_alert_dialog_exit">İptal</string>
   <string name="nowifi_alert_dialog_message">Video akışı için mobil veri bağlantısı kullanmak veri kullanımınızın artmasına neden olur. Eğer planlarınız veri kullanım sınırını aşarsa, operatör sizeden ek ücret talep edebilir.</string>
@@ -938,8 +944,5 @@
   <string name="vp_VideoView_error_network_not_available">Ağa bağlanamıyor</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Bu dosya türü desteklenmiyor.</string>
   <string name="vp_VideoView_error_text_unknown">Tanımlanamayan bir hata oluştu.</string>
-  <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
-  <string name="notification_offline_to_online_setting">Bildirim alanı</string>
-  <string name="notification_offline_to_online_summary">Hava durumu bilgilerini görüntüleyin ve Mi Video kısayollarını kullanın</string>
-  <string name="notification_offline_to_online_title">Bildirim alanı kısayollarını göster</string>  
+  <string name="vp_VideoView_error_title">Bilinmeyen hata</string>  
 </resources>
