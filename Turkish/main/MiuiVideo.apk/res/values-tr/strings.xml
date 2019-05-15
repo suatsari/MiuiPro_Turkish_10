@@ -55,8 +55,8 @@
   <string name="alert_dialog_download_prepare">%1s açılmak üzere…</string>
   <string name="alert_dialog_download_progress">%1s açılıyor:</string>
   <string name="all_content_nums">(%d bölüm)</string>
-  <string name="app_charging_wifi_mode">Yeni sürümü tut</string>
-  <string name="app_charging_wifi_mode_summary">Uygulamanın güncellemesi WLAN ve Şarj bağlantısı olduğunda sağlanır</string>
+  <string name="app_charging_wifi_mode">Yeni sürümü tutuluyor</string>
+  <string name="app_charging_wifi_mode_summary">Cihazınız şarj olurken Wi-Fi bağlantısı ile Mi Video\'yu otomatik olarak güncelleyin</string>
   <string name="app_name">Mi Video</string>
   <string name="app_version">Sürüm</string>
   <string name="app_wifi_mode">Otomatik güncelle</string>
@@ -134,7 +134,7 @@
   <string name="download_running">İndiriliyor…</string>
   <string name="download_starting">Başlangıç</string>
   <string name="download_storage_invalid">Depolama konumuna giden yol artık geçerli değil.</string>
-  <string name="download_url_waiting_data">Mobil verileri kaydetmek için duraklatıldı</string>
+  <string name="download_url_waiting_data">Kaydetmek için mobil veri duraklatıldı</string>
   <string name="download_url_waiting_no_wifi">Kablosuz bağlantı bekleniyor</string>
   <string name="download_vip_login">Mi Hesabınıza giriş yapın ve tekrar deneyin.</string>
   <string name="download_vip_request">İlk önce üye ol</string>
@@ -220,10 +220,10 @@
   <string name="message_setting_clear_message_title">Mesajları temizle</string>
   <string name="message_setting_clear_message_toast_fail">Mesajlar temizlenemedi</string>
   <string name="message_setting_clear_message_toast_success">Mesajlar başarıyla silindi</string>
-  <string name="message_setting_unread_message_summary">Bildirimleri almak için aç</string>
-  <string name="message_setting_unread_message_title">Okunmamış mesajlardan haberdar et</string>
+  <string name="message_setting_unread_message_summary">Bildirimleri almak için açın</string>
+  <string name="message_setting_unread_message_title">Okunmamış mesajları bildir</string>
   <string name="mibi">Mi Kredi</string>
-  <string name="mipush_setting">Push bildirimleri</string>
+  <string name="mipush_setting">Anlık bildirimler</string>
   <string name="moretask">Daha fazla görev</string>
   <string name="my_favor">Favorilerim</string>
   <string name="my_offline">Yerel</string>
@@ -245,7 +245,7 @@
   <string name="notification_name_apklaunch">Diğer uygulamaları başlatma hakkında bildirim</string>
   <string name="notification_name_appupdate">Güncelleme bildirimleri</string>
   <string name="notification_name_common">Düzenli bildirimler</string>
-  <string name="notification_name_message_push">Push bildirimleri</string>
+  <string name="notification_name_message_push">Anlık bildirimler</string>
   <string name="notification_name_offline">İndirme bildirimleri</string>
   <string name="notification_ticker_text">Çevrimdışı Video indirmesi tamamlandı</string>
   <string name="notification_title">\"%1$s\" indirme tamamlandı</string>
@@ -266,8 +266,8 @@
   <string name="offline_media_empty_title">Video yok</string>
   <string name="offline_pause">Tüm indirmeler duraklatıldı</string>
   <string name="offline_player">çevrimdışı oyuncu</string>
-  <string name="offline_setting_mobile_net_limit_summary">Video indirirken boyut sınırına ulaştıktan sonra mobil veri kullanımını kısıtla</string>
-  <string name="offline_setting_mobile_net_limit_title">Mobil veri kullanımı kısıtlamaları</string>
+  <string name="offline_setting_mobile_net_limit_summary">İndirilen videoların boyutu belirlenen sınıra ulaştıktan sonra mobil veri kullanımını kısıtla</string>
+  <string name="offline_setting_mobile_net_limit_title">Mobil veri kullanım kısıtlaması</string>
   <string name="offline_setting_mobile_net_limit_unlimited_title">Mobil veri kullanımı kısıtlamaları(<Data>&lt;font color=#FF0000>Sınırsız&lt;/font></Data>)</string>
   <string name="offline_setting_mobile_net_unlimited"><Data>&lt;font color=#FF0000>Sınırsız&lt;/font></Data></string>
   <string name="offline_success">Başarıyla İndirildi</string>
@@ -491,7 +491,7 @@
   <string name="quit_all">Hepsini iptal et</string>
   <string name="receive_follow">Yeni bölümler hakkında bildirimler</string>
   <string name="receive_follow_summary">İzlediğiniz şovlardaki yeni bölümler hakkında bildirim almak için açın</string>
-  <string name="receive_mipush">Push bildirimleri alın</string>
+  <string name="receive_mipush">Anlık bildirimler alın</string>
   <string name="receive_mipush_summary">Popüler videolar hakkında bildirim almak için açın</string>
   <string name="redpacgage">Kırmızı paketler</string>
   <string name="reload_sub_title">Tekrar denemek için dokunun.</string>
@@ -505,11 +505,11 @@
   <string name="screen_shot_failure_tips">os sistem sürümünüz çok düşük, çekim yapamıyor</string>
   <string name="screen_shot_success">çekimi bitir!</string>
   <string name="search_hint">Filmleri, aktörleri, kategorileri arayın…</string>
-  <string name="search_settings">Video;Video ayarları;mobil veri; push;push bildirimleri;bildirimler;önbellek;kullanıcı deneyimi;kullanıcı deneyimi;wifi;Wi-Fi</string>
+  <string name="search_settings">Video;Video ayarları;mobil veri; anlık;anlık bildirimler;bildirimler;önbellek;kullanıcı deneyimi;kullanıcı deneyimi;wifi;Wi-Fi</string>
   <string name="server_summary">Sunucuyu Seç</string>
   <string name="server_switch">Sunucu</string>
   <string name="setting">Ayarlar</string>
-  <string name="setting_alpha_join_alert_title">Uygulamanın sürümünü seçin</string>
+  <string name="setting_alpha_join_alert_title">Beta test ekibine katılın</string>
   <string name="setting_alpha_join_hint">Kodunu girin:</string>
   <string name="share_device">paylaşım cihazları</string>
   <string name="share_device_video">videoyu paylaş</string>
@@ -604,7 +604,7 @@
   <string name="toast_back_key_pressed_notice">Çıkmak için geri tuşuna tekrar dokunun</string>
   <string name="toast_cancel_collect">Favorilerden kaldırıldı</string>
   <string name="toast_downloading">Açılıyor %1s…</string>
-  <string name="toast_gprs_network">Video akışı için mobil verileri kullanma…</string>
+  <string name="toast_gprs_network">Video akışı için mobil veri kullanılıyor…</string>
   <string name="toast_login_success">Başarıyla imzalandı</string>
   <string name="toast_message_continue_play_from">Oynatma Yeri: </string>
   <string name="toast_message_continue_play_hour">s </string>
@@ -626,10 +626,10 @@
   <string name="unfinished_offline_all_start_text">Hepsini başlat</string>
   <string name="unfinished_offline_all_stop_text">Hepsini durdur</string>
   <string name="unfinished_offline_network_disable">Ağa bağlanın ve tekrar deneyin.</string>
-  <string name="unfinished_offline_network_not_wifi">Mobil verileri kullanarak bölüm indirilemiyor.</string>
+  <string name="unfinished_offline_network_not_wifi">Mobil veri kullanılarak bölüm indirilemiyor.</string>
   <string name="unzip_file_failure">Dosya açılamıyor</string>
   <string name="url_access_failed">Adresi alınamadı, müşteri servisine bağlanın</string>
-  <string name="use_cellular_network">Mobil verileri kullanmasına izin ver</string>
+  <string name="use_cellular_network">Mobil veri kullanımına izin ver</string>
   <string name="use_cellular_network_summary">Videoları indirmek için mobil veri bağlantısını kullanın. Bu mobil veri kullanımını artıracaktır.</string>
   <string name="use_cellular_offlinedownload_summary">Video indirmek için mobil veri kullanıldığında bildirim göster</string>
   <string name="use_cellular_offlinedownload_title">Mobil verilere bağlandığında yeni videolar hakkında bildirim alın</string>
@@ -760,7 +760,7 @@
   <string name="v_ready_to_install">Güncelleştirmeleri yükleme hakkında…</string>
   <string name="v_real_name">İsim</string>
   <string name="v_refund">Başarılı bir şekilde iade edildi</string>
-  <string name="v_remind_use_mobile_net_text">Video indirmek için mobil verilerin kullanılması ek ücretler oluşturabilir. Yine de indirilsin mi?</string>
+  <string name="v_remind_use_mobile_net_text">Video indirmek için mobil veri kullanılması ek ücretler oluşturabilir. Yine de indirilsin mi?</string>
   <string name="v_save">Kaydet</string>
   <string name="v_score">Derece</string>
   <string name="v_search">Arama</string>
@@ -801,10 +801,10 @@
   <string name="v_video_mine">Benim</string>
   <string name="v_video_null">Video yok</string>
   <string name="v_video_offline">Çevrimdışı</string>
-  <string name="version_select">"Sürümü Seç "</string>
-  <string name="version_select_summary">Hangi sürümü kullanacağınızı seçin</string>
-  <string name="video_bbs">Foruma Katıl</string>
-  <string name="video_bbs_url">Katılın ve bu uygulamayı geliştirmeye yardımcı olun</string>
+  <string name="version_select">Sürüm seçin</string>
+  <string name="version_select_summary">Beta test ekibine katılın</string>
+  <string name="video_bbs">Foruma git</string>
+  <string name="video_bbs_url">Mi Video\'yu geliştirmemize yardımcı olmak için ekibimize katılın</string>
   <string name="video_id_empty">Videonun URL\'si alınamadı</string>
   <string name="video_info_audio_bitrate_label">Ses bit hızı:</string>
   <string name="video_info_audio_coding_label">Ses kodlama formatı:</string>
