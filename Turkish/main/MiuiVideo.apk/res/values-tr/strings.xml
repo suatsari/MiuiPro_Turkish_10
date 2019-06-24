@@ -944,5 +944,8 @@
   <string name="vp_VideoView_error_network_not_available">Ağa bağlanamıyor</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Bu dosya türü desteklenmiyor.</string>
   <string name="vp_VideoView_error_text_unknown">Tanımlanamayan bir hata oluştu.</string>
-  <string name="vp_VideoView_error_title">Bilinmeyen hata</string>  
+  <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
+  <string name="offline_setting">Oynatma ayarları</string>
+  <string name="skip_play_time_summary">Video oynatırken açılış ve kapanış kredilerini atla</string>
+  <string name="skip_play_time_title">Kredileri atla</string>  
 </resources>
