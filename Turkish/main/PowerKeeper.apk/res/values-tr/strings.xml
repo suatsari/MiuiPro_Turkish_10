@@ -104,5 +104,7 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapalı</string>
   <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açık</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
-  <string name="adaptive_battery_title">Pili Adaptif Kullan</string> 
+  <string name="adaptive_battery_title">Pili Adaptif Kullan</string>
+  <string name="nonui_mode_config_description">MIUI cihazınızı kullanmadığınızı tespit ettiğinde, bildirimler için ekranı aydınlatmayacak, LED ışığını, parmak izi sensörünü ve dokunmatik kontrolleri kapatacak.</string>
+  <string name="nonui_mode_config_title">Etkileşimsiz mod</string>  
 </resources>
