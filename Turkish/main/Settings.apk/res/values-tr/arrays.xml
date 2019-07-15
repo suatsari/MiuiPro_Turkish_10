@@ -1259,7 +1259,8 @@
   </string-array>
   <string-array name="notch_battery_indicator_style_entries">
     <item>Grafiksel</item>
-    <item>Yüzdeli</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (simgenin yanında)</item>
   </string-array>
   <string-array name="wifi_signal">
     <item>Zayıf</item>
@@ -1331,5 +1332,10 @@
     <item>Grafiksel</item>
     <item>Yüzde (simgenin içinde)</item>
     <item>Yüzde (simgenin yanında)</item>
+  </string-array>
+  <string-array name="wide_notch_battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (Bildirim alanındaki simgenin yanında)</item>
   </string-array>  
 </resources>

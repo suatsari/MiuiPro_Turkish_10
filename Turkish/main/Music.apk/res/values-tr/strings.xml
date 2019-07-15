@@ -515,7 +515,7 @@
   <string name="handle_later">Şimdi değil</string>
   <string name="hide_album">Albümü Gizle</string>
   <string name="hide_lyric">Şarkı sözlerini gizle</string>
-  <string name="higher_quality_music">Yüksek kaliteli müzik</string>
+  <string name="higher_quality_music">Mi Müzik için abone olun</string>
   <string name="higher_quality_music_summary">Daha yüksek bit hızında müzik indir ve aktar</string>
   <string name="history_clear">temizle</string>
   <string name="history_clear_fm">Radyo çalma geçmişini temizle?</string>
@@ -526,6 +526,7 @@
   <string name="i_know">Tamam</string>
   <string name="i_know_it">Tamam</string>
   <string name="impunity_declaration_content">Bu ürünü kullanmadan önce %1$s ve %2$s okumalı ve kabul etmelisiniz.</string>
+  <string name="impunity_declaration_content_live">Bu ürünü kullanmadan önce %1$s ve %2$s okumalı ve kabul etmelisiniz.</string>
   <string name="impunity_declaration_content_agreement">Kullanıcı Sözleşmesi</string>
   <string name="impunity_declaration_content_policy">Gizlilik Politikası</string>
   <string name="impunity_declaration_enjoy_now">Şimdi keyfini çıkarın</string>
