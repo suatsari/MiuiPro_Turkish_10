@@ -178,4 +178,8 @@
     <item quantity="other">İşte sizin için %1$d güncellemeleri:</item>
     <item quantity="one">İşte sizin için %1$d güncellemesi:</item>
   </plurals>
+  <plurals name="dialog_remove_favorite_song_descript">
+    <item quantity="other">%d şarkı favorilerden çıkarılsın mı?</item>
+    <item quantity="one">%d şarkı favorilerden çıkarılsın mı?</item>
+  </plurals>  
 </resources>

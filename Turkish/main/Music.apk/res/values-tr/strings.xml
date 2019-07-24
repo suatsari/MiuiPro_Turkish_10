@@ -146,7 +146,7 @@
   <string name="button_sort_by_date">Tarihe Göre</string>
   <string name="button_sort_by_size">Boyuta Göre</string>
   <string name="button_wait_for_wifi">Bekle</string>
-  <string name="can_heard_not_download">Şarkılar sadece dinlenebilir ve indirilemez…</string>
+  <string name="can_heard_not_download">İçerik sağlayıcı kısıtlamaları nedeniyle bu şarkı indirilemiyor</string>
   <string name="can_not_find_resource">Kaynak bulunamıyor</string>
   <string name="cancel">İptal</string>
   <string name="cancel_running_download">İptal</string>
@@ -1342,4 +1342,19 @@
   <string name="xiaoai_install_title">Mi AI ses yardımcısını yükleyin</string>
   <string name="xiaoai_update_message">Mi AI ses motoru çok eski görünüyor. Şimdi güncelleyebilirsiniz.</string>
   <string name="xiaoai_update_title">Mi AI güncelle</string>
+  <string name="add_to_favorite">Favorilere ekle</string>
+  <string name="cp_other_error">Bu öğe şu anda telif hakkı kısıtlamaları nedeniyle kullanılamıyor</string>
+  <string name="detail">Ayrıntılar</string>
+  <string name="dialog_song_sort_type_add_time">Eskiden yeniye</string>
+  <string name="dialog_song_sort_type_add_time_desc">Yeniden eskiye</string>
+  <string name="dialog_song_sort_type_name_from_a2z">A\'dan Z\'ye</string>
+  <string name="dialog_song_sort_type_name_from_z2a">Z\'den A\'ya</string>
+  <string name="live_stream_error">Bu öğe şu anda telif hakkı kısıtlamaları nedeniyle kullanılamıyor</string>
+  <string name="network_no_available_and_check">Ağa bağlanılamıyor</string>
+  <string name="spammy_contents">Spam</string>
+  <string name="talkback_change_skin">Temayı değiştir</string>
+  <string name="thanks_for_feedback">Geri bildiriminiz için teşekkürler!</string>
+  <string name="unable_to_play">Oynatılamıyor</string>
+  <string name="view_all_news">Tüm haberleri görüntüle</string>
+  <string name="widget_title">En sevdiğiniz şarkıları Mi Müzik\'te bulun</string>  
 </resources>
