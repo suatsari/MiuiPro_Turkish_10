@@ -1351,6 +1351,8 @@
   <string name="dialog_song_sort_type_name_from_z2a">Z\'den A\'ya</string>
   <string name="live_stream_error">Bu öğe şu anda telif hakkı kısıtlamaları nedeniyle kullanılamıyor</string>
   <string name="network_no_available_and_check">Ağa bağlanılamıyor</string>
+  <string name="network_no_available_and_auto_next">Bir ağ hatası oluştu. Bir sonraki şarkıya atlandı.</string>
+  <string name="optimize_all_optimize_finish">Şarkı sözleri ve kapak resmi başarıyla indirildi</string>
   <string name="spammy_contents">Spam</string>
   <string name="talkback_change_skin">Temayı değiştir</string>
   <string name="thanks_for_feedback">Geri bildiriminiz için teşekkürler!</string>
