@@ -997,5 +997,38 @@ Başka bir şey aramayı deneyebilirsiniz.</string>
   <string name="vp_network_status_error">Bir ağ hatası oluştu. Tekrar deneyin.</string>
   <string name="vp_play_bestv_content_error">Bu video artık mevcut değil</string>
   <string name="vp_plugin_runtime_error">Eklenti yüklenemedi</string>
-  <string name="vp_replay">Tekrar oynat</string>  
+  <string name="vp_replay">Tekrar oynat</string>
+  <string name="channel_guide_hot_long_video">Daha popüler videoları görüntüle</string>
+  <string name="channel_guide_hot_short_video">Popüler videolar buraya taşındı!</string>
+  <string name="declare_get_accounts">Hesaplara erişim</string>
+  <string name="declare_info">Çevrimiçi video akışı ve cihazınızda video dosyalarını oynatma</string>
+  <string name="declare_read_phone_state">Cihaz bilgisine erişim</string>
+  <string name="declare_storage">Dahili depolamadaki dosyalara erişin ve değiştirin</string>
+  <string name="feedback_check_network">ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="feedback_dialog_button_dislike">İlgilenmiyorum</string>
+  <string name="feedback_dialog_label">Bu video senin için neden ilginç değil?</string>
+  <string name="feedback_post_failed">Gönderilemedi</string>
+  <string name="feedback_post_success">Başarıyla gönderildi. Bu türden öğeleri daha az göreceksiniz.</string>
+  <string name="feedback_short_video_more_dislike">İlgilenmiyorum</string>
+  <string name="gallery_folder_alias_camera">Kamera</string>
+  <string name="gallery_folder_alias_download">İndirilenler</string>
+  <string name="gallery_folder_alias_mivideo">Mi Video</string>
+  <string name="gallery_folder_alias_mobileqq">QQ kamera</string>
+  <string name="gallery_folder_alias_mobileqq_file">QQ dosyaları</string>
+  <string name="gallery_folder_alias_qqeditpic">QQ editörü</string>
+  <string name="gallery_folder_alias_screen_recorder">Ekran kayıtları</string>
+  <string name="gallery_folder_alias_tencent_video">Tencent Video</string>
+  <string name="remove_card_tips">Bu türden öğeleri daha az göreceksiniz</string>
+  <string name="remove_card_withdraw">Geri al</string>
+  <string name="resume_download">İndirmeye devam et</string>
+  <string name="small_video_mobile_network_toast">Video akışı için mobil veri kullanılıyor…</string>
+  <string name="toast_can_not_withdraw">1 dakika geçtikten sonra geri alınamaz</string>
+  <string name="toast_close_engine_mode">Geliştirici seçenekleri kapalı</string>
+  <string name="toast_open_engine_mode">Geliştirici seçenekleri açık</string>
+  <string name="toast_vid_copied">Video kimliği başarıyla kopyalandı</string>
+  <string name="vp_app_plugin_load_error">Eklenti yüklenemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="vp_app_plugin_load_retry">Eklenti yüklenemedi. Tekrar deneyin.</string>
+  <string name="vp_auto_change_resolution_suggestion">Ağ bağlantısı zayıf. &lt;font color=#0F99FF>%1$s&lt;/font> geçin</string>
+  <string name="vp_auto_change_resolution_switch">Ağ bağlantısı zayıf. &lt;font color=#0F99FF>%1$s&lt;/font> geçiliyor</string>
+  <string name="vp_video_player_play_text">\"%1$s\" oynatmak için dokunun</string>  
 </resources>
