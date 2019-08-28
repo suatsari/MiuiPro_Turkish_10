@@ -296,7 +296,7 @@
   <string name="untrusted_external_source_title">\"%1$s\" için uygulamaları yüklemesine izin verilsin mi?</string>
   <string name="untrusted_external_source_warning_summary">"Bilinmeyen kaynaklardan gelen uygulamalar cihazınıza ve kişisel verilerinize zarar verebilir. Bu kaynaktan uygulamalar yükleyerek, telefonunuzda oluşabilecek hasarlardan veya bu uygulamaların neden olabileceği kişisel veri kaybından dolayı sorumluluğu kabul etmiş olursunuz.
 
-"<font size="15">You can give and restrict permissions in Settings > Passwords &amp; security > Privacy > Special app access > Install unknown apps.</font></string>
+"<font size="15">Ayarlar\'da Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
     <string name="untrusted_external_source_warning_summary_2">"Bilinmeyen kaynaklardan gelen uygulamalar cihazınıza ve kişisel verilerinize zarar verebilir. Bu kaynaktan uygulamalar yükleyerek, telefonunuzda oluşabilecek hasarlardan veya bu uygulamaların neden olabileceği kişisel veri kaybından dolayı sorumluluğu kabul etmiş olursunuz.
 
 "<font size="15">Ayarlar\'da Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
